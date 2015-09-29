@@ -1,0 +1,58 @@
+***Delicate Multipurpose Theme Changelog ***
+
+2013.05.25 - version 1.0
+ * First release!
+
+2013.06.03 - version 1.1
+* Improved Buddha Panel
+* Sticky Nav
+* Languages
+* Improved  Feature (Side navigation) Template
+
+2013.06.07 - version 1.2
+* Portfolio default Category issue fixed
+* Boxed Sticky navigation issue fixed
+* Design tweaks
+
+2013.06.15 - version 1.3
+* Added new design for browser scroll
+* Added Goto top option
+* Added 4 new layouts for home page
+* Fixed Portfolio Single image and video issues in IE8
+* Fixed Language issue 
+* Fixed Sticky nav issue in IE8
+* Updated documentation with new designed BPanel
+
+2013.06.25 - version 1.4
+* WPML Supported
+* New Header options
+* Updated Twitter Widget
+* Fixed design issues ( z-index on BBar, Sticky Nav Drop Down)
+* Fixed Portfolio one column content issue
+
+20113.07.01 - version 1.4.1
+* Flickr Widget Issue fixed
+
+2013.06.25 - version 1.5
+* Woocommerce Supported
+* Fixed Portfolio single video issue
+
+2013.07.18 - version 1.5.1
+* Fixed Widget area issue (Woocommerce conflict) in bpanel
+* Fixed Sociable switcher issue
+* Fixed few design issues
+
+2013.08.12 - version 2.0
+* Now compatible with Contact Form 7
+* We have added TGM Plugin support
+* Fixed few Design Issues
+* Show / Hide - Browser Scroll
+
+2013.08.26 - version 2.1
+* Fixed miner issues
+* BPanel compatiblity issues fixed
+* Improved Documentation
+* Added Child Theme
+
+2013.10.16 - version 2.2
+* Fixed few IE compatible issues.

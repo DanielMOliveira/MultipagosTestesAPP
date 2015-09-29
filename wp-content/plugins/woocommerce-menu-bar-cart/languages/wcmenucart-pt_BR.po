@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Menu Cart v2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-02-06 14:47:57+0000\n"
+"Last-Translator: danielmoliveiragmail-com <danielmoliveira@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/wcmenucart-settings.php:30
+#@ wcmenucart
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:37
+#@ wcmenucart
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:61
+#@ wcmenucart
+msgid "Always display cart, even if it's empty"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:73
+#@ wcmenucart
+msgid "Display shopping cart icon."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:85
+#@ wcmenucart
+msgid "Display cart contents in menu fly-out."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:98
+#@ wcmenucart
+msgid "Set maximum number of products to display in fly-out"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:124
+#@ wcmenucart
+msgid "Choose a cart icon."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:153
+#@ wcmenucart
+msgid "What would you like to display in the menu?"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:161
+#@ wcmenucart
+msgid "Items Only."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:162
+#@ wcmenucart
+msgid "Price Only."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:163
+#@ wcmenucart
+msgid "Both price and items."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:170
+#@ wcmenucart
+msgid "Select the alignment that looks best with your menu."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:178
+#@ wcmenucart
+msgid "Align Left."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:179
+#@ wcmenucart
+msgid "Align Right."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:180
+#@ wcmenucart
+msgid "Default Menu Alignment."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:187
+#@ wcmenucart
+msgid "Enter a custom CSS class (optional)"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:208
+#: includes/wcmenucart-settings.php:603
+#@ wcmenucart
+#@ default
+msgid "Menu Cart"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:209
+#@ wcmenucart
+msgid "Menu Cart Setup"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:265
+#@ wcmenucart
+msgid "WooCommerce Menu Cart"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:292
+#@ wcmenucart
+msgid "Get WooCommerce Menu Cart Pro!"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:294
+#@ wcmenucart
+msgid "Limited Offer:"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:294
+#@ wcmenucart
+msgid "20% off!"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:297
+#@ wcmenucart
+msgid "Includes all the great standard features found in this free version plus:"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:300
+#@ wcmenucart
+msgid "A choice of over 10 cart icons"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:301
+#@ wcmenucart
+msgid "A fully featured cart details flyout"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:302
+#@ wcmenucart
+msgid "Ability to add cart + flyout for up to 3 menus"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:303
+#@ wcmenucart
+msgid "Ability to add a custom css class"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:304
+#@ wcmenucart
+msgid "Automatic updates on any great new features"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:308
+#, php-format
+#@ wcmenucart
+msgid "Need to see more? %sClick here%s to check it out. Add a product to your cart and watch what happens!"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:309
+#@ wcmenucart
+msgid "Buy Now"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:312
+#@ wcmenucart
+msgid "Want your CSS customized?"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:314
+#@ wcmenucart
+msgid "We can do that for you! Just click the button below to check it out."
+msgstr ""
+
+#: includes/wcmenucart-settings.php:316
+#@ wcmenucart
+msgid "Customize my CSS!"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:368
+#: includes/wcmenucart-settings.php:408
+#: includes/wcmenucart-settings.php:449
+#: includes/wcmenucart-settings.php:489
+#@ wcmenucart
+msgid "This feature only available in"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:562
+#@ wcmenucart
+msgid "Additional icons are only available in"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:619
+#@ default
+msgid "Menu Item"
+msgstr ""
+
+#: includes/wcmenucart-settings.php:624
+#@ default
+msgid "Add to Menu"
+msgstr ""
+
+#: woocommerce-menu-cart.php:104
+#@ wcmenucart
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce-menu-cart.php:105
+#@ wcmenucart
+msgid "Start shopping"
+msgstr ""
+
+#: woocommerce-menu-cart.php:109
+#, php-format
+#@ wcmenucart
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d itens"
+
+#: woocommerce-menu-cart.php:149
+#, php-format
+#@ wcmenucart
+msgid "WooCommerce Menu Cart depends on <a href=\"%s\">WooCommerce</a> to work!"
+msgstr ""
+

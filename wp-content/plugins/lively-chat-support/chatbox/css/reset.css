@@ -1,0 +1,33 @@
+/* 
+   Based on:
+   http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+#livelychatsupport-chatbox div, #livelychatsupport-chatbox span, #livelychatsupport-chatbox h1, #livelychatsupport-chatbox h2, #livelychatsupport-chatbox h3, #livelychatsupport-chatbox h4, #livelychatsupport-chatbox h5, #livelychatsupport-chatbox h6, #livelychatsupport-chatbox p, #livelychatsupport-chatbox a#livelychatsupport-chatbox img, #livelychatsupport-chatbox strong, #livelychatsupport-chatbox b, #livelychatsupport-chatbox label,#livelychatsupport-chatbox table, #livelychatsupport-chatbox caption, #livelychatsupport-chatbox tbody, #livelychatsupport-chatbox tfoot, #livelychatsupport-chatbox thead, #livelychatsupport-chatbox tr, #livelychatsupport-chatbox th, #livelychatsupport-chatbox td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+  letter-spacing: normal;
+	vertical-align: baseline;
+}
+
+#livelychatsupport-chatbox ol, #livelychatsupport-chatbox ul {
+	list-style: none;
+}
+
+#livelychatsupport-chatbox b, #livelychatsupport-chatbox strong {
+  font-weight: bold;
+}
+
+#livelychatsupport-chatbox em, #livelychatsupport-chatbox i {
+  font-style: oblique;
+}
+
+#livelychatsupport-chatbox table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}

@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Lively Chat Support\n"
+"Language: de\n"
+
+#: admin/includes/header.php:40
+msgid "Visitors"
+msgstr "Besucher"
+
+#: admin/includes/header.php:42
+msgid "Agents"
+msgstr "Servicemitarbeiter"
+
+#. Need context. -> Auslöser?
+#: admin/includes/header.php:44
+msgid "Triggers"
+msgstr "Trigger\n"
+""
+
+#: admin/includes/header.php:45
+msgid "Surveys"
+msgstr "Umfragen"
+
+#: admin/includes/header.php:46 admin/tabs/schedule.php:74
+#: admin/tabs/schedule.php:116
+msgid "SMS"
+msgstr "SMS"
+
+#: admin/includes/header.php:47
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/includes/header.php:49
+msgid "Help"
+msgstr "Hilfe"
+
+#: admin/includes/header.php:59
+msgid "Your changes have been saved."
+msgstr "Ihre Änderungen wurden gespeichert."
+
+#: admin/tabs/agents.php:9
+msgid "Customer Support Agents"
+msgstr "Service Mitarbeiter\n"
+""
+
+#: admin/tabs/agents.php:38
+msgid "Avatar Url"
+msgstr "Avatar URL"
+
+#: admin/tabs/agents.php:80
+msgid "Save Agents"
+msgstr "Mitarbeiter speichern"
+
+#: admin/tabs/email_required.php:1
+msgid "Just a quick setup..."
+msgstr "Nur ein schnelles Setup"
+
+#. just corrected the notation...
+#: admin/tabs/email_required.php:5
+msgid "Which <b>email address</b> should your leads be emailed to?"
+msgstr "An welche <b>Email Adresse</b> sollen die Anfragen weitergeleitet werden?"
+
+#. Need more context
+#: admin/tabs/email_required.php:8
+msgid "By setting up LivelyChatSupport, you will receive Lively Chat Support updates."
+msgstr "Bitte tragen Sie Ihre Emailadresse ein um regelmäßige Informationen zu Updates von Lively Chat Support zu erhalten."
+
+#: admin/tabs/email_required.php:9
+msgid "You can opt out at any time. We will NOT sell your email address."
+msgstr "Sie können sich jederzeit austragen. Wir werden Ihre Emailadresse niemals weitergeben."
+
+#: admin/tabs/email_required.php:14
+msgid "What's your <b>name</b>?"
+msgstr "Wie ist Ihr <b>Name</b>?"
+
+#: admin/tabs/settings.php:25
+msgid "Lively Chat Theme"
+msgstr "Lively Chat Theme"
+
+#: admin/tabs/settings.php:29
+msgid "Colour"
+msgstr "Farbe"
+
+#: admin/tabs/settings.php:34 admin/tabs/settings.php:108
+msgid "Call To Action Text"
+msgstr "Call To Action Text"
+
+#: admin/tabs/settings.php:39 admin/tabs/settings.php:113
+msgid "Call To Action Image"
+msgstr "Call To Action Bild"
+
+#. need context
+#: admin/tabs/settings.php:41 admin/tabs/settings.php:115
+msgid "Use pre-built"
+msgstr "Mitgelieferte Bilder verwenden"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "Choose file"
+msgstr "Datei wählen"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "or"
+msgstr "oder"
+
+#: admin/tabs/settings.php:43 admin/tabs/settings.php:117
+msgid "No image"
+msgstr "Kein Bild"
+
+#. Need Context
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:132
+msgid "Hint: You can drag the image vertically."
+msgstr "Tip: Sie können das Bild vertikal platzieren."
+
+#: admin/tabs/settings.php:64
+msgid "Position on Screen"
+msgstr "Position auf dem Bildschirm"
+
+#: admin/tabs/settings.php:65
+msgid "Hint: Aligns image if present."
+msgstr "Tip: Richtet Bild aus, wenn gesetzt"
+
+#: admin/tabs/settings.php:69
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: admin/tabs/settings.php:68
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: admin/tabs/settings.php:74
+msgid "Email responses to which address?"
+msgstr "Email Antworten an welche Adresse?"
+
+#: admin/tabs/settings.php:81
+msgid "Show \"Powered By Lively Chat\""
+msgstr "Zeige \"Powered By Lively Chat\""
+
+#: admin/tabs/schedule.php:135 admin/tabs/settings.php:85
+#: admin/tabs/settings.php:142
+msgid "Save My Settings"
+msgstr "Einstellungen speichern\n"
+""
+
+#: admin/tabs/settings.php:104
+msgid "Offline Mode (aka. the perfect lead-collection form)"
+msgstr "Offline Modus (Formular für Anfragen wenn offline)"
+
+#: admin/tabs/settings.php:136
+msgid "Thank you text after submission"
+msgstr "Danke-Text nach dem Absenden"
+
+#: admin/tabs/settings.php:138
+msgid "Hint: Basic HTML is acceptable."
+msgstr "Tip: Einfaches HTML ist erlaubt"
+
+#: admin/tabs/schedule.php:16
+msgid "Online According to Office Hours"
+msgstr "Online nach den Öffnungszeiten"
+
+#: admin/tabs/schedule.php:17
+msgid "Always Online"
+msgstr "Immer online"
+
+#: admin/tabs/schedule.php:19
+msgid "Always Online via SMS"
+msgstr "Immer online via SMS"
+
+#: admin/tabs/schedule.php:21
+msgid "Always Offline"
+msgstr "Immer Offline"
+
+#: admin/tabs/schedule.php:22
+msgid "Don't Show LivelyChatSupport At All"
+msgstr "LivelyChatSupport gar nicht anzeigen"
+
+#: admin/tabs/schedule.php:33
+msgid "Day"
+msgstr "Tag"
+
+#: admin/tabs/schedule.php:34
+msgid "Open At"
+msgstr "Geöffnet ab"
+
+#: admin/tabs/schedule.php:35
+msgid "Close At"
+msgstr "Geschlossen ab"
+
+#: admin/tabs/schedule.php:36
+msgid "Who Should Respond?"
+msgstr "Wer soll antworten?"
+
+#: admin/tabs/schedule.php:37
+msgid "Contact Method"
+msgstr "Kontaktart"
+
+#: admin/tabs/schedule.php:48 admin/tabs/schedule.php:89
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: admin/tabs/schedule.php:49 admin/tabs/schedule.php:90
+msgid "Monday"
+msgstr "Montag"
+
+#: admin/tabs/schedule.php:50 admin/tabs/schedule.php:91
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: admin/tabs/schedule.php:51 admin/tabs/schedule.php:92
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: admin/tabs/schedule.php:52 admin/tabs/schedule.php:93
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: admin/tabs/schedule.php:53 admin/tabs/schedule.php:94
+msgid "Friday"
+msgstr "Freitag"
+
+#: admin/tabs/schedule.php:54 admin/tabs/schedule.php:95
+msgid "Saturday"
+msgstr "Samstag"
+
+#: admin/tabs/schedule.php:65 admin/tabs/schedule.php:107
+msgid "Anyone"
+msgstr "Jeder"
+
+#: admin/tabs/schedule.php:76 admin/tabs/schedule.php:118
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: admin/tabs/schedule.php:81 admin/tabs/schedule.php:123
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/tabs/schedule.php:131
+msgid "Add Another Time Slot"
+msgstr "Weiteren Zeit-Slot hinzufügen"
+
+#: admin/tabs/settings.php:186
+msgid "History"
+msgstr "Verlauf"
+
+#: admin/tabs/settings.php:187
+msgid "Danger Zone: This action is irreversible."
+msgstr "Achtung! Diese Aktion kann nicht rückgängig gemacht werden."
+
+#: admin/tabs/settings.php:190
+msgid "Delete All Conversation and Visitor History"
+msgstr "Alle Konversationen und den gesamten Verlauf löschen."
+
+#: admin/tabs/sms.php:70
+msgid "Chat with your visitors from your phone."
+msgstr "Reden Sie mit Ihren Kunden über Ihr Telefon."
+
+#: admin/tabs/sms.php:81
+msgid "Are you always on the go - not in front of your computer?"
+msgstr "Sind Sie immer unterwegs und nur selten vor Ihrem Computer?"
+
+#: admin/tabs/sms.php:84
+msgid "With SMS, your visitor's messages are sent to your phone as text messages - simply reply as you would to any sms."
+msgstr "Mit der SMS Funktion werden die Nachrichten Ihrer Nutzer an Ihr Telefon gesendet. Sie können darauf wie bei einer normalen SMS antworten."
+
+#: admin/tabs/sms.php:87
+msgid "SMS chat is a premium feature and REQUIRES YOUR OWN <a href=\"https://www.twilio.com\">TWILIO</a> ACCOUNT (usually costs $.01/message)."
+msgstr "SMS Chat ist eine Premiumfunktion! Sie benötigen Ihr eigenes <a href=\"https://www.twilio.com\">TWILIO</a> Konto. (Normaler Weise 7 US Cent / SMS)"
+
+#: admin/tabs/sms.php:100 admin/tabs/surveys.php:124
+#: admin/tabs/triggers.php:111
+msgid "Thanks for your support!"
+msgstr "Vielen Dank für Ihre Untersützung!"
+
+#: admin/tabs/sms.php:107
+msgid "Already have an activation code for SMS? Enter it here:"
+msgstr "Haben Sie bereits einen Aktivierungscode für die SMS Funktion? Geben Sie Ihn bitte hier ein: "
+
+#. Need Kontext
+#: admin/tabs/surveys.php:96
+msgid "Get information quickly and unintrusively from your visitors."
+msgstr "Erhalten Sie Informationen schnell und unaufdringlich von Ihren Besuchern."
+
+#: admin/tabs/surveys.php:99
+msgid "Surveys are quick, fun ways to question your visitors."
+msgstr "Umfragen sind ein einfacher Weg, um Feedback von Ihren Besuchern zu erhalten."
+
+#: admin/tabs/surveys.php:102
+msgid "Visitors love to complete quick surveys, if they know it will benefit them in the future."
+msgstr "Besucher füllen gerne kurze Umfragen aus, wenn sie wissen, dass es ihnen in Zukunft von Nutzen sein kann."
+
+#. needs rework maybe,,, need more context
+#: admin/tabs/surveys.php:105
+msgid "They are also a great lead in to a conversation."
+msgstr "Oft führen diese auch zu einem Verkauf."
+
+#: admin/tabs/surveys.php:111
+msgid "Surveys are a premium feature."
+msgstr "Umfragen sind ein Premium-Feature"
+
+#: admin/tabs/surveys.php:131
+msgid "Already have an activation code for Surveys? Enter it here:"
+msgstr "Haben Sie schon einen Aktivierungscode für das \"Umfragenmodul\" haben tragen Sie diesen bitte hier ein. "
+
+#: admin/tabs/triggers.php:83
+msgid "Automatically start conversations with your visitors."
+msgstr "Automatisch Unterhaltungen mit Ihren Besuchern starten. "
+
+#: admin/tabs/triggers.php:86
+msgid "Triggers automatically start a conversation with your visitors based on the rules you provide."
+msgstr "Das Modul Triggers startet automatisch Konversationen mit Ihren Besuchern, basierend auf den festgelegten Regeln."
+
+#: admin/tabs/triggers.php:89
+msgid "Once the user responds, you take over the conversation (these aren't automated robots)."
+msgstr "Sie können das Gespräch übernehmen nachdem der Benutzer geantwortet hat. (Triggers sind keine automatisierten bots)"
+
+#: admin/tabs/triggers.php:92
+msgid "They are a great way to start a conversation, much like you would if you walked into a physical store."
+msgstr "Diese sind ein großartiger Weg um Gespräche zu starten. Fast so, als ob Sie in ein richtiges Geschäft gehen."
+
+#: admin/tabs/triggers.php:98
+msgid "Triggers are a premium feature."
+msgstr "Triggers sind ein premium Feature"
+
+#: admin/tabs/triggers.php:118
+msgid "Already have an activation code for Triggers? Enter it here:"
+msgstr "Haben Sie schon einen Aktivierungscode für das \"Triggers-Modul\"? Dann tragen Sie diesen bitte hier ein:"
+
+#: admin/tabs/visitors.php:28
+msgid "Start"
+msgstr "Start"
+
+#: admin/tabs/visitors.php:31 admin/tabs/visitors.php:41
+msgid "Today"
+msgstr "Heute"
+
+#: admin/tabs/visitors.php:32 admin/tabs/visitors.php:42
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: admin/tabs/visitors.php:33 admin/tabs/visitors.php:43
+msgid "1 Week Ago"
+msgstr "Vor einer Woche"
+
+#: admin/tabs/visitors.php:38
+msgid "Finish"
+msgstr "Ziel"
+
+#: admin/tabs/visitors.php:54
+msgid "Choose a visitor on the left."
+msgstr "Wählen Sie einen Besucher auf der linken Seite"
+
+#: admin/tabs/visitors.php:69
+msgid "Delete This Conversation"
+msgstr "Diese Unterhaltung löschen."
+
+#. need context, cant find "convos" neither do i know this word...
+#: admin/tabs/visitors.php:70
+msgid "Delete all convos on the <a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Settings</a> page."
+msgstr "Alle Unterhaltungen auf der Seite<a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Einstellungen</a> löschen."
+
+#: admin/tabs/visitors.php:77 admin/tabs/visitors.php:87
+msgid "IP:"
+msgstr "IP:"
+
+#: admin/tabs/visitors.php:78 admin/tabs/visitors.php:88
+msgid "Last seen:"
+msgstr "Zuletzt gesehen:"
+
+#: admin/tabs/visitors.php:85
+msgid "Location:"
+msgstr "Ort:"
+
+#: admin/tabs/visitors.php:86
+msgid "Email:"
+msgstr "Email:"
+
+#. need context, who is visiting what?
+#: admin/tabs/visitors.php:95
+msgid "Now visiting:"
+msgstr "Momentan online:"
+
+#: admin/tabs/visitors.php:113 chatbox/includes/structure.php:132
+msgid "Type here and press <Enter>"
+msgstr "Hier schreiben und anschließend <Enter drücken>"
+
+#: admin/tabs/visitors.php:118
+msgid "You can't talk to this person because they haven't registered yet."
+msgstr "Sie können nicht mit dieser Person sprechen, da Sie noch nicht registriert sind."
+
+#: admin/tabs/visitors.php:121
+msgid "We'll be unlocking this feature in a future version."
+msgstr "Wir werden dieses Feature in einer späteren Version freischalten"
+
+#: chatbox/includes/structure.php:52
+msgid "Next"
+msgstr "Weiter"
+
+#: chatbox/includes/structure.php:53
+msgid "Submit"
+msgstr "Absenden"
+
+#: chatbox/includes/structure.php:54
+msgid "Prev Step"
+msgstr "Voriger Schritt"
+
+#: chatbox/includes/structure.php:76
+msgid "What is your name?"
+msgstr "Wie ist Ihr Name?"
+
+#: chatbox/includes/structure.php:81
+msgid "What is your email?"
+msgstr "Wie ist Ihre Emailadresse?"
+
+#: chatbox/includes/structure.php:86
+msgid "What is your question?"
+msgstr "Wie ist Ihre Frage?\n"
+""
+
+#: chatbox/includes/structure.php:91
+msgid "Please provide a valid name, email, and question."
+msgstr "Bitte geben Sie einen Namen, eine gültige Emailadresse sowie Ihre Frage ein."
+
+#: chatbox/includes/structure.php:96
+msgid "Loading..."
+msgstr "Laden..."
+
+#: chatbox/includes/structure.php:101 chatbox/includes/structure.php:127
+msgid "Powered by LivelyChat"
+msgstr "Powered by LivelyChat"
+
+#: chatbox/includes/structure.php:128
+msgid "Delete History"
+msgstr "Verlauf löschen"
+
+#: shared/includes/functions.php:17
+msgid "Thanks for contacting us. We'll get back to you as soon as we can."
+msgstr "Vielen dank für Ihre Anfrage. Wir werden uns schnellst möglich bei Ihnen melden."
+
+#: shared/includes/functions.php:18
+msgid "Chat With Us Now!"
+msgstr "Schreiben Sie mit uns!"
+
+#. need context
+#: shared/includes/functions.php:19
+msgid "Need help? Email Us Here!"
+msgstr "Brauchen Sie Hilfe? Schreiben Sie uns eine Email"
+
+#. Plugin Name of the plugin/theme
+#: 
+msgid "Lively Chat Support"
+msgstr "Lively Chat Support"
+
+#. Description of the plugin/theme
+#: 
+msgid "The best FREE live chat for your WP website (supports images) - forget the hosted chat services."
+msgstr "Der beste KOSTENLOSE Livechat für Ihr Wordpress mit Bildunterstüzung! Vergessen Sie hosted Chat Services"
+
+#. Author of the plugin/theme
+#: 
+msgid "Dallas Read"
+msgstr "Dallas Read"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "http://www.DallasRead.com"
+msgstr "Dallas Read"
+
+#. Tags of the plugin/theme
+#: 
+msgid "live chat, live support, online chat, customer service"
+msgstr "Livechat, live Support, online Chat, Kundendienst"
+
+#: admin/tabs/email_required.php:19
+msgid "Save My LivelyChatSupport"
+msgstr "Sichere Meinen LivelyChatSupport"
+
+#: admin/tabs/schedule.php:12
+msgid "Schedule & Office Hours"
+msgstr "Planung & Öffnungszeiten"
+
+#: admin/tabs/settings.php:161
+msgid "Chatbox Visibility"
+msgstr "Chatbox Sichtbarkeit"
+
+#: admin/tabs/settings.php:164
+msgid "Which pages should LivelyChat be shown on?"
+msgstr "Auf welchen Seiten soll LivelyChat gezeigt werden?\n"
+""
+
+#. Need kontext, -> activate the sms feature or activation sms?
+#: admin/tabs/sms.php:109
+msgid "Activate SMS"
+msgstr "SMS-Feature aktivieren"
+
+#: admin/tabs/sms.php:8
+msgid "For the SMS addon, there's some set up (I wish it could be easier...)."
+msgstr "Für das SMS Addon sind einige Einstellungen von Nöten"
+
+#: admin/tabs/sms.php:11
+msgid "Visit the Users > Your Profile page to add your mobile phone number (where you want to receive the SMS's)."
+msgstr "Gehe zu Benutzer > Dein Profil, um Deine Telefonnummer einzugeben (die Nummer auf welcher Du die Textnachrichten erhalten möchtest)."
+
+#: admin/tabs/sms.php:12
+msgid "Sign up at <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+msgstr "Melde Dich auf <a href=\\"%s\\" target=\\"_blank\\">Twilio.com</a> an."
+
+#: admin/tabs/sms.php:13
+msgid "From the dashboard, copy your <b>ACCOUNT SID</b> and <b>AUTH TOKEN</b> into the boxes below."
+msgstr "Kopiere Deine <b>ACCOUNT SID</b> und <b>AUTH TOKEN</b> vom Dashboard in die folgenden Boxen."
+
+#: admin/tabs/sms.php:15
+msgid "Buy a number"
+msgstr "Kaufe eine Nummer"
+
+#: admin/tabs/sms.php:15
+msgid "You'll probably want a local number to avoid any long distance/international SMS charges."
+msgstr "Du wirst wahrscheinlich eine lokale Nummer haben wollen, um lange Distanz/internationale SMS-Kosten zu vermeiden."
+
+#: admin/tabs/sms.php:16
+msgid "DON'T GET A TOLL FREE NUMBER - IT WILL NOT WORK."
+msgstr "NIMM KEINE GEBÜHRENFREIE NUMMER - SIE WIRD NICHT FUNKTIONIEREN."
+
+#: admin/tabs/sms.php:16
+msgid "Place the phone number in the appropriate box below."
+msgstr "Bitte tragen Sie Ihre Telefonnummer in das entsprechende Feld unten ein"
+
+#: admin/tabs/sms.php:19
+msgid "Click <b>Save My Credentials</b> on this page. You should receive an SMS confirming that everything's ready to go."
+msgstr "Klicke <b>Save My Credentials</b> auf dieser Seite. Du solltest eine SMS mit der Bestätigung erhalten, dass Alles fertig und betriebsbereit ist."
+
+#: admin/tabs/sms.php:20
+msgid "Go to the <a href=\"%s\">Settings</a> page, visit the <b>LivelyChatSupport Hours</b> section (at the bottom) and switch it to <b>Always Online via SMS</b>!"
+msgstr "Gehe zu <a href=\\"%s\\">Settings</a>, besuche <b>LivelyChatSupport Stunden</b> (am unteren Ende) und stelle sie auf <b>Immer Online per SMS</b>!"
+
+#: admin/tabs/sms.php:25
+msgid "What is your Twilio SID?"
+msgstr "Ihre Twilio SID"
+
+#: admin/tabs/sms.php:30
+msgid "What is your Twilio Auth Token?"
+msgstr "Ihr Twilio Authentifizierungstoken (Auth Token)"
+
+#: admin/tabs/sms.php:35
+msgid "What is your Twilio Phone Number? (only numbers... no spaces, brackets, or plus sign)"
+msgstr "Ihre Twilio Nummer (Nur Zahlen, keine Leerzeichen, Bindestiche oder Pluszeichen)"
+
+#: admin/tabs/surveys.php:133
+msgid "Activate Surveys"
+msgstr "Aktiviere Surveys"
+
+#: admin/tabs/triggers.php:120
+msgid "Activate Triggers"
+msgstr "Aktiviere Triggers"
+
+#: admin/tabs/visitors.php:97
+msgid "see all"
+msgstr "alle sehen"
+
+#: chatbox/includes/functions.php:476
+msgid "Website Form"
+msgstr "Webseiten Formular\n"
+""
+
+#: chatbox/includes/structure.php:97
+msgid "Send Email!"
+msgstr "Email senden!"
+
+#: chatbox/includes/structure.php:97
+msgid "Start Chatting Now!"
+msgstr "Chat jetzt starten!"
+
+#: chatbox/includes/structure.php:112
+msgid "You're chatting with"
+msgstr "Sie sprechen mit"
+
+#: admin/includes/header.php:6
+msgid "Use surveys to engage visitors!"
+msgstr "Benutzen Sie Umfragen, um Besucher zu fesseln!"
+
+#: admin/includes/header.php:10
+msgid "Triggers engage visitors!"
+msgstr "Triggers fesseln Besucher!"
+
+#: admin/includes/header.php:14 admin/tabs/agents.php:92
+msgid "Need Multiple Agents?"
+msgstr "Sie brauchen mehr Mitarbeiter?"
+
+#: admin/includes/header.php:18
+msgid "Chat with visitors from your phone!"
+msgstr "Chatten Sie mit Besuchern von Ihrem Telefon aus!"
+
+#: admin/includes/header.php:22
+msgid "Lively Chat Support? Donate!"
+msgstr "Sie wollen Lively Chat Support unterstützen? Spenden Sie!"
+
+#: admin/includes/header.php:26
+msgid "Have you seen LivelyChatSupport.com?"
+msgstr "Kennen Sie LivelyChatSupport.com?"
+
+#: admin/tabs/agents.php:13
+msgid "<strong>Phone Number</strong> - should include country code (eg. 19998887777). "
+msgstr "<strong>Telefonnummer</strong> - sollte den Ländercode beinhalten (z.B. 19998887777).␣"
+
+#: admin/tabs/agents.php:16
+msgid "<strong>Email Address</strong> - Can be changed in the <a href=\"%s\">WP Users</a> section."
+msgstr "<strong>Emailadresse</strong> - Kann in <a href=\"%s\">WP Benutzer</a> geändert werden."
+
+#: admin/tabs/agents.php:17
+msgid "<strong>Display Name</strong> - Shows in the \"You're Chatting With\" section of the chat box."
+msgstr "<strong>Angezeigter Name</strong> - Wird im \"Sie chatten mit\" Abschnitt der Chat-Box angezeigt."
+
+#: admin/tabs/agents.php:19
+msgid "<strong>Active</strong> - When checked, the user can chat with visitors. At least 1 agent must be active for LivelyChatSupport to work."
+msgstr "<strong>Aktiv</strong> - Wenn ausgewählt, kann der Nutzer mit Besuchern chatten. Damit LivelyChatSupport funktioniert muss wenigstens ein Mitarbeiter aktiv sein."
+
+#: admin/tabs/agents.php:20
+msgid "To add more agents, purchase the addon below."
+msgstr "Kaufen Sie das folgende Addon, um mehrere Mitarbeiter hinzufügen zu können."
+
+#: admin/tabs/agents.php:22
+msgid "<strong>Default</strong> - The default Lively Chat Support agent."
+msgstr "<strong>Standard</strong> - Der Standard Lively Chat Support Mitarbeiter."
+
+#: admin/tabs/agents.php:31
+msgid "Active"
+msgstr "Aktiv"
+
+#: admin/tabs/agents.php:32
+msgid "Default"
+msgstr "Standard"
+
+#: admin/tabs/agents.php:33
+msgid "Email Address"
+msgstr "Emailadresse"
+
+#: admin/tabs/agents.php:34
+msgid "Display Name"
+msgstr "Angezeigter Name"
+
+#: admin/tabs/agents.php:36
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: admin/tabs/agents.php:94
+msgid "Multiple Agents chat is a premium feature."
+msgstr "Multipler Mitarbeiter-Chat ist eine Premium-Funktion"
+
+#: admin/tabs/agents.php:95
+msgid "It is managed through the Wordpress Users pages."
+msgstr "Wird durch die Wordpress Benutzer-Seiten verwaltet."
+
+#: admin/tabs/agents.php:96 admin/tabs/sms.php:90 admin/tabs/surveys.php:114
+#: admin/tabs/triggers.php:101
+msgid "To purchase the addon, pay here and you'll receive an email with an activation code (which you'll enter in the box below):"
+msgstr "Zahlen Sie hier, um das Addon zu kaufen und Sie erhalten eine Email mit einem Aktivierungscode (den Sie in die folgende Box eingeben):"
+
+#: admin/tabs/agents.php:109
+msgid "Already have an activation code? Enter it here:"
+msgstr "Sie haben schon einen Aktivierungscode? Geben Sie ihn hier ein:"
+
+#: admin/tabs/agents.php:111
+msgid "Activate"
+msgstr "Aktiviert"
+
+#: admin/tabs/help.php:1
+msgid "Setup"
+msgstr "Einstellungen"
+
+#: admin/tabs/help.php:3
+msgid "Set up your agents on the <a href=\"%s\">Agents</a> page."
+msgstr "Richten Sie sich Ihre Mitarbeiter unter <a href=\"%s\">Mitarbeiter</a> ein."
+
+#: admin/tabs/help.php:4
+msgid "Set your office hours on the <a href=\"%s\">Schedule</a> page."
+msgstr "Richten Sie sich Ihre Bürozeiten unter <a href=\"%s\">Terminplan</a> ein."
+
+#: admin/tabs/help.php:5
+msgid "Visit the <a href=\"%s\">Settings</a> page to change the appearance of your chat box."
+msgstr "Besuchen Sie die <a href=\"%s\">Einstellungen</a>, um das Erscheinungsbild Ihrer Chat-Box zu verändern."
+
+#: admin/tabs/help.php:6
+msgid "Chat with your visitors."
+msgstr "Chatten Sie mit Ihren Besuchern"
+
+#: admin/tabs/help.php:7
+msgid "Purchase an addon (SMS, Surveys, Triggers, or Multiple Agents)!"
+msgstr "Kaufen Sie ein Addon (SMS, Umfragen, Triggers, oder Multiple Mitarbeiter)!"
+
+#: admin/tabs/help.php:10
+msgid "Need extra help?"
+msgstr "Sie benötigen extra Hilfe?"
+
+#: admin/tabs/help.php:12
+msgid "Is your question already on the <a href=\"%s\">Wordpress Plugin Forum</a>?"
+msgstr "Existiert Ihre Frage bereits im <a href=\"%s\">Wordpress Plugin Forum</a>?"
+
+#: admin/tabs/help.php:13
+msgid "Visit <a href=\"%s\">LivelyChatSupport.com</a>"
+msgstr "Besuchen Sie <a href=\"%s\">LivelyChatSupport.com</a>"
+
+#: admin/tabs/help.php:14
+msgid "Email dallas at excitecreative.ca."
+msgstr "Schicken Sie eine Email an dallas at excitecreative.ca."
+
+#: admin/tabs/schedule.php:27
+msgid "Is it <b>%s</b>? If not, change your timezone on the <a href=\"%s\">General Settings</a> page."
+msgstr "Ist es <b>%s</b>? falls nicht, dann ändern Sie Ihre Zeitzone unter <a href=\"%s\">Allgemeine Einstellungen</a>."
+
+#: admin/tabs/schedule.php:28
+msgid "Not seeing your agents? Make sure the \"Active\" column is ticked on the <a href=\"%s\">Agents</a> page."
+msgstr "Sie sehen Ihre Mitarbeiter nicht? Vergewissern Sie sich, dass die \"Aktiv\"-Spalte auf der <a href=\"%s\">Mitarbeiter</a>-Seite angekreuzt ist."
+
+#: admin/tabs/sms.php:18
+msgid "When prompted by Twilio, fill in the box for <b>Messaging</b> with \"%s\". <b>/xmlrpc.php?from_twilio=true</b> must be on the end of the url for the SMS addon to work. Save your Twilio changes."
+msgstr "Wenn von Twilio darauf hingewiesen, geben Sie in der Box <b>Messaging</b> \"%s\" ein. <b>/xmlrpc.php?from_twilio=true</b> muss am Ende der URL stehen, damit das SMS Addon funktioniert. Speichern Sie Ihre Twilio-Änderungen."
+
+#: admin/tabs/sms.php:62
+msgid "How do I respond to SMS messages?"
+msgstr "Wie anworte Ich auf SMS-Nachrichten?"
+
+#: admin/tabs/sms.php:63
+msgid "Each message you receive begins with a small token and a colon (eg. 4k2:)."
+msgstr "Jede Nachricht, die Sie erhalten beginnt mit einem kleinen Token und einem Doppelpunkt (z.B. 4k2:)."
+
+#: admin/tabs/sms.php:64
+msgid "To respond to a specific conversation, type \"4k2: YOUR MESSAGE HERE\"."
+msgstr "Um auf eine spezifische Konversation zu antworten tippen Sie ein \"4k2: HIER IHRE NACHRICHT\"."
+
+#: admin/tabs/sms.php:65
+msgid "If you don't include this token in your response, we'll just send it back to the customer that last sent you a message."
+msgstr "Fügen Sie den Token nicht in Ihrer Antwort ein, senden wir die Nachricht einfach zurück an den Kunden, der Ihnen zuletzt eine Nachricht gesendet hat."
+
+#: admin/tabs/sms.php:75
+msgid "Your PHP installation doesn't support CURL, <b>which is required for the SMS addon</b>. Have a look at <a href=\"%s\">this guide</a> to install it."
+msgstr "Leider unterstützt Ihre PHP-Installation CURL nicht, <b>das für das SMS-Addon benötigt wird</b>. Sehen Sie sich<a href=\"%s\">diese Anleitung</a> an, um es zu installieren."
+
+#: admin/includes/header.php:43
+msgid "Schedule"
+msgstr "Terminplan"
+
+#: admin/tabs/visitors.php:76 admin/tabs/visitors.php:84
+msgid "Agent:"
+msgstr "Mitarbeiter:"
+

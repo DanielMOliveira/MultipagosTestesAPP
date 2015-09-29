@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,700);
+.tp-caption.cus_big_black { background:#333334; color: #FFFFFF; font-size: 24px; font-weight: bold;line-height: 48px; padding-left: 20px; padding-right: 20px; text-transform: uppercase; }
+.tp-caption.cus_big_green { color: #FFFFFF; font-size: 20px; font-weight: bold; line-height: 44px; padding-left: 20px; padding-right: 20px; text-transform: uppercase; }
+.tp-caption.cus_small_green { color: #FFFFFF; font-size: 18px; font-weight: bold; line-height: 40px; padding-left: 20px; padding-right: 20px; }
+.tp-caption.cus_white_bg { background:#ffffff; height:200px; width:420px; }
+.tp-caption.cus_big_title { color: #FFFFFF; font-size: 24px; font-weight: bold; text-transform: uppercase;}
+.tp-caption.cus_big_title2 { color: #FFFFFF; font-size: 24px; font-weight: bold; }
+.tp-caption.cus_big_title3 { color: #FFFFFF; font-size: 20px; font-weight: bold; text-transform: uppercase; }
+.tp-caption.cus_small_text { color: #FFFFFF; font-size: 16px; line-height: 24px; }
+.tp-caption.cus_small_text2 { color: #FFFFFF; font-size: 14px; line-height: 24px; }
+.tp-caption.cus_small_text_bg { color: #FFFFFF; font-size: 16px; line-height: 24px; background: #ffffff; padding:20px; }
+.tp-caption.cus_btn { color: #ffffff; font-size: 14px; line-height: 38px; padding-left: 20px; padding-right: 20px; font-weight: bold; text-transform: uppercase; }

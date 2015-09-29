@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Lively Chat Support\n"
+"Language: nl\n"
+
+#: admin/includes/header.php:40
+msgid "Visitors"
+msgstr "Bezoekers"
+
+#: admin/includes/header.php:42
+msgid "Agents"
+msgstr "Vertegenwoordigers"
+
+#: admin/includes/header.php:44
+msgid "Triggers"
+msgstr "Triggers"
+
+#: admin/includes/header.php:45
+msgid "Surveys"
+msgstr "Enquêtes"
+
+#: admin/includes/header.php:46 admin/tabs/schedule.php:74
+#: admin/tabs/schedule.php:116
+msgid "SMS"
+msgstr "SMS"
+
+#: admin/includes/header.php:47
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/includes/header.php:49
+msgid "Help"
+msgstr "Hulp"
+
+#: admin/includes/header.php:59
+msgid "Your changes have been saved."
+msgstr "Je wijzigingen zijn opgeslagen."
+
+#: admin/tabs/agents.php:9
+msgid "Customer Support Agents"
+msgstr "Klantenondersteuning Vertegenwoordigers"
+
+#: admin/tabs/agents.php:38
+msgid "Avatar Url"
+msgstr "Avatar URL"
+
+#: admin/tabs/agents.php:80
+msgid "Save Agents"
+msgstr "Bewaar Vertegenwoordigers"
+
+#: admin/tabs/email_required.php:1
+msgid "Just a quick setup..."
+msgstr "Alleen maar een korte installatie..."
+
+#: admin/tabs/email_required.php:5
+msgid "Which <b>email address</b> should your leads be emailed to?"
+msgstr "Op welk <b>email-adres</b> wil je je leads krijgen?"
+
+#: admin/tabs/email_required.php:8
+#, fuzzy
+msgid "By setting up LivelyChatSupport, you will receive Lively Chat Support updates."
+msgstr "Bij het instelleren van LivelyChatSupport krijg je de Lively Chat Support updates op je email adres."
+
+#: admin/tabs/email_required.php:9
+msgid "You can opt out at any time. We will NOT sell your email address."
+msgstr "Je kun je elk moment uitschrijven (opt-out). We zullen je email-adres NIET verkopen."
+
+#: admin/tabs/email_required.php:14
+msgid "What's your <b>name</b>?"
+msgstr "Wat is je <b>Naam</b>?"
+
+#: admin/tabs/settings.php:25
+msgid "Lively Chat Theme"
+msgstr "Lively Chat Thema"
+
+#: admin/tabs/settings.php:29
+msgid "Colour"
+msgstr "Kleur"
+
+#: admin/tabs/settings.php:34 admin/tabs/settings.php:108
+msgid "Call To Action Text"
+msgstr "Call To Action Tekst"
+
+#: admin/tabs/settings.php:39 admin/tabs/settings.php:113
+msgid "Call To Action Image"
+msgstr "Call To Action Afbeelding"
+
+#: admin/tabs/settings.php:41 admin/tabs/settings.php:115
+msgid "Use pre-built"
+msgstr "Gebruik standaard"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "Choose file"
+msgstr "Kies bestand"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "or"
+msgstr "of"
+
+#: admin/tabs/settings.php:43 admin/tabs/settings.php:117
+msgid "No image"
+msgstr "Geen afbeelding"
+
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:132
+msgid "Hint: You can drag the image vertically."
+msgstr "Tip: Je kunt het plaatje vertikaal schuiven."
+
+#: admin/tabs/settings.php:64
+msgid "Position on Screen"
+msgstr "Plaats op het Scherm"
+
+#: admin/tabs/settings.php:65
+msgid "Hint: Aligns image if present."
+msgstr "Tip: Lijnt het aanwezige plaatje uit"
+
+#: admin/tabs/settings.php:69
+msgid "Bottom Right"
+msgstr "Rechts Onderaan"
+
+#: admin/tabs/settings.php:68
+msgid "Bottom Left"
+msgstr "Links Onderaan"
+
+#: admin/tabs/settings.php:74
+msgid "Email responses to which address?"
+msgstr "Reacties naar welk email sturen?"
+
+#: admin/tabs/settings.php:81
+msgid "Show \"Powered By Lively Chat\""
+msgstr "Toon \"Aangedreven door Lively Chat\""
+
+#: admin/tabs/schedule.php:135 admin/tabs/settings.php:85
+#: admin/tabs/settings.php:142
+msgid "Save My Settings"
+msgstr "Bewaar mijn instellingen"
+
+#: admin/tabs/settings.php:104
+msgid "Offline Mode (aka. the perfect lead-collection form)"
+msgstr "Offline Modus (aka. de perfecte lead-verzamelling formulier)"
+
+#: admin/tabs/settings.php:136
+msgid "Thank you text after submission"
+msgstr "Bedankt-tekst na inzending"
+
+#: admin/tabs/settings.php:138
+msgid "Hint: Basic HTML is acceptable."
+msgstr "Tip: Eenvoudige HTML wordt geaccepteerd."
+
+#: admin/tabs/schedule.php:16
+msgid "Online According to Office Hours"
+msgstr "Online op Werk-Uren"
+
+#: admin/tabs/schedule.php:17
+msgid "Always Online"
+msgstr "Altijd Online"
+
+#: admin/tabs/schedule.php:19
+msgid "Always Online via SMS"
+msgstr "Altijd Online via SMS"
+
+#: admin/tabs/schedule.php:21
+msgid "Always Offline"
+msgstr "Altijd Offline"
+
+#: admin/tabs/schedule.php:22
+msgid "Don't Show LivelyChatSupport At All"
+msgstr "Nooit LivelyChatSupport Vertonen"
+
+#: admin/tabs/schedule.php:33
+msgid "Day"
+msgstr "Dag"
+
+#: admin/tabs/schedule.php:34
+msgid "Open At"
+msgstr "Open om"
+
+#: admin/tabs/schedule.php:35
+msgid "Close At"
+msgstr "Dicht om"
+
+#: admin/tabs/schedule.php:36
+msgid "Who Should Respond?"
+msgstr "Wie zou moeten reageren?"
+
+#: admin/tabs/schedule.php:37
+msgid "Contact Method"
+msgstr "Contact-Methode"
+
+#: admin/tabs/schedule.php:48 admin/tabs/schedule.php:89
+msgid "Sunday"
+msgstr "Zondag"
+
+#: admin/tabs/schedule.php:49 admin/tabs/schedule.php:90
+msgid "Monday"
+msgstr "Maandag"
+
+#: admin/tabs/schedule.php:50 admin/tabs/schedule.php:91
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: admin/tabs/schedule.php:51 admin/tabs/schedule.php:92
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: admin/tabs/schedule.php:52 admin/tabs/schedule.php:93
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: admin/tabs/schedule.php:53 admin/tabs/schedule.php:94
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: admin/tabs/schedule.php:54 admin/tabs/schedule.php:95
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: admin/tabs/schedule.php:65 admin/tabs/schedule.php:107
+msgid "Anyone"
+msgstr "Eenieder"
+
+#: admin/tabs/schedule.php:76 admin/tabs/schedule.php:118
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: admin/tabs/schedule.php:81 admin/tabs/schedule.php:123
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: admin/tabs/schedule.php:131
+msgid "Add Another Time Slot"
+msgstr "Voeg een ander tijd-interval toe"
+
+#: admin/tabs/settings.php:186
+msgid "History"
+msgstr "Geschiedenis"
+
+#: admin/tabs/settings.php:187
+msgid "Danger Zone: This action is irreversible."
+msgstr "PAS OP: deze actie is onomkeerbaar"
+
+#: admin/tabs/settings.php:190
+msgid "Delete All Conversation and Visitor History"
+msgstr "Wis de gehele Gespreks- en Bezoekers-geschiedenis"
+
+#: admin/tabs/sms.php:70
+msgid "Chat with your visitors from your phone."
+msgstr "Chat met je bezoekers op je telefoon."
+
+#: admin/tabs/sms.php:81
+msgid "Are you always on the go - not in front of your computer?"
+msgstr "Ben je voortdurend onderweg – niet vòòr je computer?"
+
+#: admin/tabs/sms.php:84
+msgid "With SMS, your visitor's messages are sent to your phone as text messages - simply reply as you would to any sms."
+msgstr "Met SMS, de berichten van je bezoekers worden als tekst naar je mobiel verzonden. Je kunt reageren zoals op een gewoon SMS."
+
+#: admin/tabs/sms.php:87
+msgid "SMS chat is a premium feature and REQUIRES YOUR OWN <a href=\"https://www.twilio.com\">TWILIO</a> ACCOUNT (usually costs $.01/message)."
+msgstr "SMS chat is een extra functionaliteit en BEHOEFT JE EIGEN <a href=\"https://www.twilio.com\">TWILIO</a> ACCOUNT (normale kosten $.01/bericht)."
+
+#: admin/tabs/sms.php:100 admin/tabs/surveys.php:124
+#: admin/tabs/triggers.php:111
+msgid "Thanks for your support!"
+msgstr "Bedankt voor je steun!"
+
+#: admin/tabs/sms.php:107
+msgid "Already have an activation code for SMS? Enter it here:"
+msgstr "Heb je al een activerings code voor SMS? Hier invoeren:"
+
+#: admin/tabs/surveys.php:96
+msgid "Get information quickly and unintrusively from your visitors."
+msgstr "Haal snel en onopdringerig informatie van je bezoekers."
+
+#: admin/tabs/surveys.php:99
+msgid "Surveys are quick, fun ways to question your visitors."
+msgstr "Enquêtes zijn snel en lollig om bezoekers wat te vragen."
+
+#: admin/tabs/surveys.php:102
+msgid "Visitors love to complete quick surveys, if they know it will benefit them in the future."
+msgstr "Bezoekers houden van om snelle enquêtes in te vullen, als ze weten dat het hen later wat oplevert."
+
+#: admin/tabs/surveys.php:105
+msgid "They are also a great lead in to a conversation."
+msgstr "Deze zijn ook een prima introductie voor een gesprek."
+
+#: admin/tabs/surveys.php:111
+msgid "Surveys are a premium feature."
+msgstr "Enquêtes zijn een extra functionaliteit."
+
+#: admin/tabs/surveys.php:131
+msgid "Already have an activation code for Surveys? Enter it here:"
+msgstr "Heb je al een activerings code voor Enquêtes? Voer hem hier in:"
+
+#: admin/tabs/triggers.php:83
+msgid "Automatically start conversations with your visitors."
+msgstr "Start automatisch gesprekken met je bezoekers."
+
+#: admin/tabs/triggers.php:86
+msgid "Triggers automatically start a conversation with your visitors based on the rules you provide."
+msgstr "Triggers starten automatisch een gesprek met je bezoekers volgens de door jou ingestelde regels."
+
+#: admin/tabs/triggers.php:89
+msgid "Once the user responds, you take over the conversation (these aren't automated robots)."
+msgstr "Zodra je bezoeker reageert, neem je het gesprek over (dit is geen gespreks-robot)."
+
+#: admin/tabs/triggers.php:92
+msgid "They are a great way to start a conversation, much like you would if you walked into a physical store."
+msgstr "Het zijn leuke manieren om een gesprek te starten, net zoals je zou doen als je een winkel binnenloopt."
+
+#: admin/tabs/triggers.php:98
+msgid "Triggers are a premium feature."
+msgstr "Triggers zijn een extra functionaliteit."
+
+#: admin/tabs/triggers.php:118
+msgid "Already have an activation code for Triggers? Enter it here:"
+msgstr "Heb je al een activeringscode voor Triggers? Voer deze hier in:"
+
+#: admin/tabs/visitors.php:28
+msgid "Start"
+msgstr "Start"
+
+#: admin/tabs/visitors.php:31 admin/tabs/visitors.php:41
+msgid "Today"
+msgstr "Vandaag"
+
+#: admin/tabs/visitors.php:32 admin/tabs/visitors.php:42
+msgid "Yesterday"
+msgstr "Gisteren"
+
+#: admin/tabs/visitors.php:33 admin/tabs/visitors.php:43
+msgid "1 Week Ago"
+msgstr "1 Week Geleden"
+
+#: admin/tabs/visitors.php:38
+msgid "Finish"
+msgstr "Afsluiten"
+
+#: admin/tabs/visitors.php:54
+msgid "Choose a visitor on the left."
+msgstr "Kies links een bezoeker."
+
+#: admin/tabs/visitors.php:69
+msgid "Delete This Conversation"
+msgstr "Verwijder Dit Gesprek"
+
+#: admin/tabs/visitors.php:70
+msgid "Delete all convos on the <a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Settings</a> page."
+msgstr "Wis alle gesprekken op de <a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Instellingen</a> pagina."
+
+#: admin/tabs/visitors.php:77 admin/tabs/visitors.php:87
+msgid "IP:"
+msgstr "IP:"
+
+#: admin/tabs/visitors.php:78 admin/tabs/visitors.php:88
+msgid "Last seen:"
+msgstr "Laatst gezien:"
+
+#: admin/tabs/visitors.php:85
+msgid "Location:"
+msgstr "Locatie:"
+
+#: admin/tabs/visitors.php:86
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/tabs/visitors.php:95
+msgid "Now visiting:"
+msgstr "Bezoekt nu je website:"
+
+#: admin/tabs/visitors.php:113 chatbox/includes/structure.php:132
+msgid "Type here and press <Enter>"
+msgstr "Typ hier en druk op <Enter>"
+
+#: admin/tabs/visitors.php:118
+msgid "You can't talk to this person because they haven't registered yet."
+msgstr "Je kunt met deze persoon nog niet praten, omdat ie zich niet heeft geregistreerd."
+
+#: admin/tabs/visitors.php:121
+msgid "We'll be unlocking this feature in a future version."
+msgstr "We zullen deze functionaliteit in een latere versie openen."
+
+#: chatbox/includes/structure.php:52
+msgid "Next"
+msgstr "Volgende"
+
+#: chatbox/includes/structure.php:53
+msgid "Submit"
+msgstr "Verzenden"
+
+#: chatbox/includes/structure.php:54
+msgid "Prev Step"
+msgstr "Vorige Stap"
+
+#: chatbox/includes/structure.php:76
+msgid "What is your name?"
+msgstr "Wat is je naam?"
+
+#: chatbox/includes/structure.php:81
+msgid "What is your email?"
+msgstr "Wat is je Email?"
+
+#: chatbox/includes/structure.php:86
+msgid "What is your question?"
+msgstr "Wat is je vraag?"
+
+#: chatbox/includes/structure.php:91
+msgid "Please provide a valid name, email, and question."
+msgstr "A.u.b. geef een geldige naam, email en vraag."
+
+#: chatbox/includes/structure.php:96
+msgid "Loading..."
+msgstr "Aan het laden..."
+
+#: chatbox/includes/structure.php:101 chatbox/includes/structure.php:127
+msgid "Powered by LivelyChat"
+msgstr "Aangedreven door LivelyChat"
+
+#: chatbox/includes/structure.php:128
+msgid "Delete History"
+msgstr "Wis Geschiedenis"
+
+#: shared/includes/functions.php:17
+msgid "Thanks for contacting us. We'll get back to you as soon as we can."
+msgstr "Bedankt voor je bericht. We zullen z.s.m. contact met je opnemen."
+
+#: shared/includes/functions.php:18
+msgid "Chat With Us Now!"
+msgstr "Chat Nu Met Ons!"
+
+#: shared/includes/functions.php:19
+msgid "Need help? Email Us Here!"
+msgstr "Hulp nodig? Email ons hier!"
+
+#. Plugin Name of the plugin/theme
+#: 
+msgid "Lively Chat Support"
+msgstr "Ondersteuning Lively Chat"
+
+#. Description of the plugin/theme
+#: 
+msgid "The best FREE live chat for your WP website (supports images) - forget the hosted chat services."
+msgstr "De beste GRATIS chat plug-in voor je WP website (ondersteunt afbeeldingen) - laat de gehoste chat diensten varen."
+
+#. Author of the plugin/theme
+#: 
+msgid "Dallas Read"
+msgstr "Dallas Read"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "http://www.DallasRead.com"
+msgstr "http://www.DallasRead.com"
+
+#. Tags of the plugin/theme
+#: 
+msgid "live chat, live support, online chat, customer service"
+msgstr "live chat, live ondersteuning, online chat, klantenservice"
+
+#: admin/tabs/email_required.php:19
+msgid "Save My LivelyChatSupport"
+msgstr "Bewaar Mijn LivelyChatSupport"
+
+#: admin/tabs/schedule.php:12
+msgid "Schedule & Office Hours"
+msgstr "Agenda & Werk-Uren"
+
+#: admin/tabs/settings.php:161
+msgid "Chatbox Visibility"
+msgstr "Zichtbaarheid Chatbox"
+
+#: admin/tabs/settings.php:164
+msgid "Which pages should LivelyChat be shown on?"
+msgstr "Op welke pagina's moet LivelyChat verschijnen?"
+
+#: admin/tabs/sms.php:109
+msgid "Activate SMS"
+msgstr "Activeer SMS"
+
+#: admin/tabs/sms.php:8
+msgid "For the SMS addon, there's some set up (I wish it could be easier...)."
+msgstr "Voor de SMS functionaliteit zijn wat instellingen vereist (ik wens dat het niet zo was...)."
+
+#. Dallas, do you have a screen-copy of how this looks like?
+#. "Visit the Users" refers to a tab named "users" or something else?
+#: admin/tabs/sms.php:11
+msgid "Visit the Users > Your Profile page to add your mobile phone number (where you want to receive the SMS's)."
+msgstr "Bezoek de gebruikers > Je Profielpagina, waar je jouw telefoonnummer invult (als je SMS berichten wenst te ontvangen)."
+
+#: admin/tabs/sms.php:12
+msgid "Sign up at <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+msgstr "Schrijf je in op <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+
+#: admin/tabs/sms.php:13
+msgid "From the dashboard, copy your <b>ACCOUNT SID</b> and <b>AUTH TOKEN</b> into the boxes below."
+msgstr "Vanuit je dashboard, kopieer je <b>ACCOUNT SID</b> en <b>AUTH TOKEN</b> in de boxjes beneden."
+
+#: admin/tabs/sms.php:15
+msgid "Buy a number"
+msgstr "Koop een nummer"
+
+#: admin/tabs/sms.php:15
+msgid "You'll probably want a local number to avoid any long distance/international SMS charges."
+msgstr "Je zult misschien een lokaal nummer willen, om internationale SMS kosten te vermijden."
+
+#: admin/tabs/sms.php:16
+msgid "DON'T GET A TOLL FREE NUMBER - IT WILL NOT WORK."
+msgstr "HAAL GEEN GRATIS NUMMER - HET ZAL NIET WERKEN."
+
+#: admin/tabs/sms.php:16
+msgid "Place the phone number in the appropriate box below."
+msgstr "Plaats het telefoonnummer in het bestemde veld hieronder."
+
+#: admin/tabs/sms.php:19
+msgid "Click <b>Save My Credentials</b> on this page. You should receive an SMS confirming that everything's ready to go."
+msgstr "Klik <b>Bewaar Mijn Referenties</b> op deze pagina. Je zult een SMS ontvangen, ter bevestiging dat alles in orde is."
+
+#: admin/tabs/sms.php:20
+msgid "Go to the <a href=\"%s\">Settings</a> page, visit the <b>LivelyChatSupport Hours</b> section (at the bottom) and switch it to <b>Always Online via SMS</b>!"
+msgstr "Ga naar de <a href=\"%s\">Instellingen</a> pagina, zoek de <b>LivelyChatSupport Tijden</b> sectie (onderaan) op en schakel het om <b>Altijd Online via SMS</b>!"
+
+#: admin/tabs/sms.php:25
+msgid "What is your Twilio SID?"
+msgstr "Wat is je Twilio SID?"
+
+#: admin/tabs/sms.php:30
+msgid "What is your Twilio Auth Token?"
+msgstr "Wat is je Twilio Auth Token?"
+
+#: admin/tabs/sms.php:35
+msgid "What is your Twilio Phone Number? (only numbers... no spaces, brackets, or plus sign)"
+msgstr "Wat is je Twilio Telefoon Nummer? (alléén cijfers... geen spaties, haakjes, of plus-teken)"
+
+#: admin/tabs/surveys.php:133
+msgid "Activate Surveys"
+msgstr "Activeer Enquêtes"
+
+#: admin/tabs/triggers.php:120
+msgid "Activate Triggers"
+msgstr "Activeer Triggers"
+
+#: admin/tabs/visitors.php:97
+msgid "see all"
+msgstr "zie alles"
+
+#: chatbox/includes/functions.php:476
+msgid "Website Form"
+msgstr "Website Formulier"
+
+#: chatbox/includes/structure.php:97
+msgid "Send Email!"
+msgstr "Stuur Email!"
+
+#: chatbox/includes/structure.php:97
+msgid "Start Chatting Now!"
+msgstr "Start Chatten Nu!"
+
+#: chatbox/includes/structure.php:112
+msgid "You're chatting with"
+msgstr "Je chat met"
+
+#: admin/includes/header.php:6
+msgid "Use surveys to engage visitors!"
+msgstr "Gebruik enquêtes om je bezoekers te binden!"
+
+#: admin/includes/header.php:10
+msgid "Triggers engage visitors!"
+msgstr "Triggers"
+
+#: admin/includes/header.php:14 admin/tabs/agents.php:92
+msgid "Need Multiple Agents?"
+msgstr "Meerdere vertegenwoordigers nodig?"
+
+#: admin/includes/header.php:18
+msgid "Chat with visitors from your phone!"
+msgstr "Chat met je bezoekers over de telefoon!"
+
+#: admin/includes/header.php:22
+msgid "Lively Chat Support? Donate!"
+msgstr "Lively Chat Support? Doneer!"
+
+#: admin/includes/header.php:26
+msgid "Have you seen LivelyChatSupport.com?"
+msgstr "Heb je LivelyChatSupport.com gezien?"
+
+#. is this space after the last point meant to be there? Should I include it?
+#: admin/tabs/agents.php:13
+msgid "<strong>Phone Number</strong> - should include country code (eg. 19998887777). "
+msgstr "<strong>Telefoon Nummer</strong> - moet met land code beginnen (eg. 19998887777).␣"
+
+#: admin/tabs/agents.php:16
+msgid "<strong>Email Address</strong> - Can be changed in the <a href=\"%s\">WP Users</a> section."
+msgstr "<strong>Email Adres</strong> - Kan worden veranderd op de <a href=\"%s\">WP Gebruikers</a> sectie."
+
+#: admin/tabs/agents.php:17
+msgid "<strong>Display Name</strong> - Shows in the \"You're Chatting With\" section of the chat box."
+msgstr "<strong>Display Naam</strong> - Wordt weergegeven op het  \"You're Chatting With\" gedeelte van de chat box."
+
+#: admin/tabs/agents.php:19
+msgid "<strong>Active</strong> - When checked, the user can chat with visitors. At least 1 agent must be active for LivelyChatSupport to work."
+msgstr "<strong>Actief</strong> - Als je het aanvinkt, kan de gebruiker met bezoekers chatten. Er moet ten minste 1 vertegenwoordiger actief zijn, voor LivelyChatSupport om te werken."
+
+#: admin/tabs/agents.php:20
+msgid "To add more agents, purchase the addon below."
+msgstr "Om meer vertegenwoordigers toe te voegen, koop je beneden de extra functionaliteit."
+
+#: admin/tabs/agents.php:22
+msgid "<strong>Default</strong> - The default Lively Chat Support agent."
+msgstr "<strong>Standaard</strong> - De standaard Lively Chat Support vertegenwoordiger."
+
+#: admin/tabs/agents.php:31
+msgid "Active"
+msgstr "Actief"
+
+#: admin/tabs/agents.php:32
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/tabs/agents.php:33
+msgid "Email Address"
+msgstr "Email Adres"
+
+#: admin/tabs/agents.php:34
+msgid "Display Name"
+msgstr "Weergave-naam"
+
+#: admin/tabs/agents.php:36
+msgid "Phone Number"
+msgstr "Telefoon Nummer"
+
+#: admin/tabs/agents.php:94
+msgid "Multiple Agents chat is a premium feature."
+msgstr "Multiple Agents chat is een extra functionaliteit."
+
+#: admin/tabs/agents.php:95
+msgid "It is managed through the Wordpress Users pages."
+msgstr "Beheer gaat via de Wordpress Gebruikers pagina's."
+
+#: admin/tabs/agents.php:96 admin/tabs/sms.php:90 admin/tabs/surveys.php:114
+#: admin/tabs/triggers.php:101
+msgid "To purchase the addon, pay here and you'll receive an email with an activation code (which you'll enter in the box below):"
+msgstr "Om de extra functionaliteit te kopen, betaal je hier en je krijgt een email met de activeringscode. (Deze vul je in in het box beneden):"
+
+#: admin/tabs/agents.php:109
+msgid "Already have an activation code? Enter it here:"
+msgstr "Heb je al een activeringscode? Vul hem hier in:"
+
+#: admin/tabs/agents.php:111
+msgid "Activate"
+msgstr "Activeer"
+
+#: admin/tabs/help.php:1
+msgid "Setup"
+msgstr "Instellingen"
+
+#: admin/tabs/help.php:3
+msgid "Set up your agents on the <a href=\"%s\">Agents</a> page."
+msgstr "Stel je vertegenwoordigers in op de <a href=\"%s\">Vertegenwoordigers</a> pagina."
+
+#: admin/tabs/help.php:4
+msgid "Set your office hours on the <a href=\"%s\">Schedule</a> page."
+msgstr "Bepaal je werk-uren op de <a href=\"%s\">Agenda</a> pagina."
+
+#: admin/tabs/help.php:5
+msgid "Visit the <a href=\"%s\">Settings</a> page to change the appearance of your chat box."
+msgstr "Bezoek de <a href=\"%s\">Instellingen</a> pagina om het uiterlijk van je chat box aan te passen."
+
+#: admin/tabs/help.php:6
+msgid "Chat with your visitors."
+msgstr "Chat met je bezoekers."
+
+#: admin/tabs/help.php:7
+msgid "Purchase an addon (SMS, Surveys, Triggers, or Multiple Agents)!"
+msgstr "Koop een extra functionaliteit (SMS, Enquêtes, Triggers, of Multiple Agents)!"
+
+#: admin/tabs/help.php:10
+msgid "Need extra help?"
+msgstr "Meer hulp nodig?"
+
+#: admin/tabs/help.php:12
+msgid "Is your question already on the <a href=\"%s\">Wordpress Plugin Forum</a>?"
+msgstr "Is je vraag al op het <a href=\"%s\">Wordpress Plugin Forum</a> gesteld?"
+
+#: admin/tabs/help.php:13
+msgid "Visit <a href=\"%s\">LivelyChatSupport.com</a>"
+msgstr "Bezoek <a href=\"%s\">LivelyChatSupport.com</a>"
+
+#: admin/tabs/help.php:14
+msgid "Email dallas at excitecreative.ca."
+msgstr "Email dallas at excitecreative.ca"
+
+#: admin/tabs/schedule.php:27
+msgid "Is it <b>%s</b>? If not, change your timezone on the <a href=\"%s\">General Settings</a> page."
+msgstr "Is het <b>%s</b>? Zo niet, verander je timezone op de <a href=\"%s\">Algemene Instellingen</a> pagina."
+
+#: admin/tabs/schedule.php:28
+msgid "Not seeing your agents? Make sure the \"Active\" column is ticked on the <a href=\"%s\">Agents</a> page."
+msgstr "Zie je jouw vertegenwoordigers niet? Zorg dat de kolom \"Actief\" is aangevinkt op de <a href=\"%s\">Vertegenwoordigers</a> pagina."
+
+#: admin/tabs/sms.php:18
+msgid "When prompted by Twilio, fill in the box for <b>Messaging</b> with \"%s\". <b>/xmlrpc.php?from_twilio=true</b> must be on the end of the url for the SMS addon to work. Save your Twilio changes."
+msgstr "Wanner door Twilio gevraagd, vul de box voor <b>Messaging</b> in, met \"%s\". <b>/xmlrpc.php?from_twilio=true</b> moet op het einde van de url staan, om de SMS functionaliteit te laten werken. Bewaar je Twilio wijzigingen."
+
+#: admin/tabs/sms.php:62
+msgid "How do I respond to SMS messages?"
+msgstr "How kan ik op SMS berichten reageren?"
+
+#: admin/tabs/sms.php:63
+msgid "Each message you receive begins with a small token and a colon (eg. 4k2:)."
+msgstr "Elk bericht dat je ontvangt begint met een kort kenmerk (token) en een dubbele punt (b.v. 4k2:)."
+
+#: admin/tabs/sms.php:64
+msgid "To respond to a specific conversation, type \"4k2: YOUR MESSAGE HERE\"."
+msgstr "Om op een bepaald gesprek te reageren, typ \"4k2: HIER JE BERICHT\"."
+
+#: admin/tabs/sms.php:65
+msgid "If you don't include this token in your response, we'll just send it back to the customer that last sent you a message."
+msgstr "Als je dit token (kenmerk) niet in je reactie opneemt, sturen we het terug naar de klant die jou het laatst een bericht heeft gestuurd."
+
+#: admin/tabs/sms.php:75
+msgid "Your PHP installation doesn't support CURL, <b>which is required for the SMS addon</b>. Have a look at <a href=\"%s\">this guide</a> to install it."
+msgstr "Je PHP installatie ondersteunt CURL niet, dat <b>nodig is voor de SMS functie</b>. Kijk even op <a href=\"%s\">deze gids</a> om het te installeren.."
+
+#: admin/includes/header.php:43
+msgid "Schedule"
+msgstr "Agenda"
+
+#: admin/tabs/visitors.php:76 admin/tabs/visitors.php:84
+msgid "Agent:"
+msgstr "Vertegenwoordiger:"
+

@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Lively Chat Support\n"
+"Language: el\n"
+
+#: admin/includes/header.php:40
+msgid "Visitors"
+msgstr "Επισκέπτες"
+
+#: admin/includes/header.php:42
+msgid "Agents"
+msgstr "Πράκτορες"
+
+#: admin/includes/header.php:44
+msgid "Triggers"
+msgstr "Υποκινητές"
+
+#: admin/includes/header.php:45
+msgid "Surveys"
+msgstr "Έρευνες"
+
+#: admin/includes/header.php:46 admin/tabs/schedule.php:74
+#: admin/tabs/schedule.php:116
+msgid "SMS"
+msgstr "SMS"
+
+#: admin/includes/header.php:47
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/includes/header.php:49
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: admin/includes/header.php:59
+msgid "Your changes have been saved."
+msgstr "Οι αλλαγές σας αποθηκεύθηκαν."
+
+#: admin/tabs/agents.php:9
+msgid "Customer Support Agents"
+msgstr "Πράκτορες Εξυπηρέτησης Πελατών"
+
+#: admin/tabs/agents.php:38
+msgid "Avatar Url"
+msgstr "Url εικόνας σας"
+
+#: admin/tabs/agents.php:80
+msgid "Save Agents"
+msgstr "Αποθήκευση Πρακτόρων"
+
+#: admin/tabs/email_required.php:1
+msgid "Just a quick setup..."
+msgstr "Μιά σύντομη εγκατάσταση..."
+
+#: admin/tabs/email_required.php:5
+msgid "Which <b>email address</b> should your leads be emailed to?"
+msgstr "Σε ποιάν  <b>διεύθυνση email</b> να έρχονται οι πιθανοί πελάτες σας;"
+
+#: admin/tabs/email_required.php:8
+msgid "By setting up LivelyChatSupport, you will receive Lively Chat Support updates."
+msgstr "Εγκαθιστώντας το LivelyChatSupport, θα λαμβάνετε τις ενημερώσεις Lively Chat Support στο email σας."
+
+#: admin/tabs/email_required.php:9
+msgid "You can opt out at any time. We will NOT sell your email address."
+msgstr "Μπορείτε να διαγραφείτε όποτε θέλετε. ΔΕΝ πωλούμε την διεύθυνση τού email σας."
+
+#: admin/tabs/email_required.php:14
+msgid "What's your <b>name</b>?"
+msgstr "Πώς είναι το <b>όνομά</b> σας;"
+
+#: admin/tabs/settings.php:25
+msgid "Lively Chat Theme"
+msgstr "Θέμα Lively Chat"
+
+#: admin/tabs/settings.php:29
+msgid "Colour"
+msgstr "Χρώμα"
+
+#: admin/tabs/settings.php:34 admin/tabs/settings.php:108
+msgid "Call To Action Text"
+msgstr "Κείμενο Εντολής για Δράση"
+
+#: admin/tabs/settings.php:39 admin/tabs/settings.php:113
+msgid "Call To Action Image"
+msgstr "Εικόνα Εντολής για Δράση"
+
+#: admin/tabs/settings.php:41 admin/tabs/settings.php:115
+msgid "Use pre-built"
+msgstr "Χρήση προκατασκευασμένων"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "Choose file"
+msgstr "Επιλογή αρχείου"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "or"
+msgstr "ή"
+
+#: admin/tabs/settings.php:43 admin/tabs/settings.php:117
+msgid "No image"
+msgstr "Χωρίς εικόνα"
+
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:132
+msgid "Hint: You can drag the image vertically."
+msgstr "Συμβουλή: Μπορείτε να σύρετε την εικόνα κάθετα."
+
+#: admin/tabs/settings.php:64
+msgid "Position on Screen"
+msgstr "Θέση στην Οθόνη"
+
+#: admin/tabs/settings.php:65
+msgid "Hint: Aligns image if present."
+msgstr "Συμβουλή: Στοιχίζει την εικόνα, αν υπάρχει."
+
+#: admin/tabs/settings.php:69
+msgid "Bottom Right"
+msgstr "Κάτω Δεξιά"
+
+#: admin/tabs/settings.php:68
+msgid "Bottom Left"
+msgstr "Κάτω Αριστερά"
+
+#: admin/tabs/settings.php:74
+msgid "Email responses to which address?"
+msgstr "Σε ποιάν διεύθυνση οι απαντήσεις email;"
+
+#: admin/tabs/settings.php:81
+msgid "Show \"Powered By Lively Chat\""
+msgstr "Δείξτε: «Στηρίζεται στο Lively Chat»"
+
+#: admin/tabs/schedule.php:135 admin/tabs/settings.php:85
+#: admin/tabs/settings.php:142
+msgid "Save My Settings"
+msgstr "Φύλαξη Ρυθμίσεων"
+
+#: admin/tabs/settings.php:104
+msgid "Offline Mode (aka. the perfect lead-collection form)"
+msgstr "Όταν Απουσιάζετε (τέλειο για συλλογή διευθύνσεων)"
+
+#: admin/tabs/settings.php:136
+msgid "Thank you text after submission"
+msgstr "Ευχαριστήριο κείμενο μετά την υποβολή"
+
+#: admin/tabs/settings.php:138
+msgid "Hint: Basic HTML is acceptable."
+msgstr "Συμβουλή: Δεκτός απλός HTML"
+
+#: admin/tabs/schedule.php:16
+msgid "Online According to Office Hours"
+msgstr "Σε Σύνδεση τις Ώρες Λειτουργίας"
+
+#: admin/tabs/schedule.php:17
+msgid "Always Online"
+msgstr "Πάντα σε Σύνδεση"
+
+#: admin/tabs/schedule.php:19
+msgid "Always Online via SMS"
+msgstr "Πάντα σε Σύνδεση με SMS"
+
+#: admin/tabs/schedule.php:21
+msgid "Always Offline"
+msgstr "Πάντα Απών"
+
+#: admin/tabs/schedule.php:22
+msgid "Don't Show LivelyChatSupport At All"
+msgstr "Μή δείξετε καθόλου το LivelyChatSupport"
+
+#: admin/tabs/schedule.php:33
+msgid "Day"
+msgstr "Ημέρα"
+
+#: admin/tabs/schedule.php:34
+msgid "Open At"
+msgstr "Ανοίγει στις"
+
+#: admin/tabs/schedule.php:35
+msgid "Close At"
+msgstr "Κλείνει στις"
+
+#: admin/tabs/schedule.php:36
+msgid "Who Should Respond?"
+msgstr "Ποιός πρέπει να ανταποκριθεί;"
+
+#: admin/tabs/schedule.php:37
+msgid "Contact Method"
+msgstr "Μέθοδος Επικοινωνίας"
+
+#: admin/tabs/schedule.php:48 admin/tabs/schedule.php:89
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: admin/tabs/schedule.php:49 admin/tabs/schedule.php:90
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: admin/tabs/schedule.php:50 admin/tabs/schedule.php:91
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: admin/tabs/schedule.php:51 admin/tabs/schedule.php:92
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: admin/tabs/schedule.php:52 admin/tabs/schedule.php:93
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: admin/tabs/schedule.php:53 admin/tabs/schedule.php:94
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: admin/tabs/schedule.php:54 admin/tabs/schedule.php:95
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: admin/tabs/schedule.php:65 admin/tabs/schedule.php:107
+msgid "Anyone"
+msgstr "Οποιοσδήποτε"
+
+#: admin/tabs/schedule.php:76 admin/tabs/schedule.php:118
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: admin/tabs/schedule.php:81 admin/tabs/schedule.php:123
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: admin/tabs/schedule.php:131
+msgid "Add Another Time Slot"
+msgstr "Πρόσθεση κι Άλλης Χρονοθυρίδας"
+
+#: admin/tabs/settings.php:186
+msgid "History"
+msgstr "Ιστορικό"
+
+#: admin/tabs/settings.php:187
+msgid "Danger Zone: This action is irreversible."
+msgstr "Προσοχή! Η ενέργεια δεν αναστρέφεται."
+
+#: admin/tabs/settings.php:190
+msgid "Delete All Conversation and Visitor History"
+msgstr "Διαγράψτε Όλες τις Συζητήσεις και Ιστορικά Επισκέψεων"
+
+#: admin/tabs/sms.php:70
+msgid "Chat with your visitors from your phone."
+msgstr "Συνομιλήστε με τους επισκέπτες απο το τηλέφωνό σας."
+
+#: admin/tabs/sms.php:81
+msgid "Are you always on the go - not in front of your computer?"
+msgstr "Είστε συνεχώς έξω ή μακρυά απο τον ΗΥ σας;"
+
+#: admin/tabs/sms.php:84
+msgid "With SMS, your visitor's messages are sent to your phone as text messages - simply reply as you would to any sms."
+msgstr "Με το SMS, τα μηνύματα επισκεπτών σας προωθούνται στο κινητό σας ως κείμενο - απαντάτε απλά όπως σε κάθε sms."
+
+#: admin/tabs/sms.php:87
+msgid "SMS chat is a premium feature and REQUIRES YOUR OWN <a href=\"https://www.twilio.com\">TWILIO</a> ACCOUNT (usually costs $.01/message)."
+msgstr "Η συνδιάλεξη SMS είναι πρόσθετη λειτουργία και ΑΠΑΙΤΕΙΤΑΙ ΣΥΝΔΡΟΜΗ στο <a href=\"https://www.twilio.com\">TWILIO</a>. (Σύνηθες κόστος: $0.1 ανα μήνυμα)."
+
+#: admin/tabs/sms.php:100 admin/tabs/surveys.php:124
+#: admin/tabs/triggers.php:111
+msgid "Thanks for your support!"
+msgstr "Ευχαριστώ για την στήριξή σας!"
+
+#: admin/tabs/sms.php:107
+msgid "Already have an activation code for SMS? Enter it here:"
+msgstr "Έχετε ήδη κωδικό ενεργοποιήσεως SMS; Εισαγάγετέ τον εδώ:"
+
+#: admin/tabs/surveys.php:96
+msgid "Get information quickly and unintrusively from your visitors."
+msgstr "Λάβετε πληροφορίες τών επισκεπτών σας γρήγορα και διακριτικά."
+
+#: admin/tabs/surveys.php:99
+msgid "Surveys are quick, fun ways to question your visitors."
+msgstr "Οι Έρευνες είναι διασκεδαστικός τρόπος να ερωτήσετε τους επισκέπτες σας."
+
+#: admin/tabs/surveys.php:102
+msgid "Visitors love to complete quick surveys, if they know it will benefit them in the future."
+msgstr "Οι επισκέπτες απαντούν ευχαρίστως σύντομες έρευνες, αν ξέρουν πως θα ωφεληθούν αργότερα."
+
+#: admin/tabs/surveys.php:105
+msgid "They are also a great lead in to a conversation."
+msgstr "Δίδουν επίσης θαυμάσια αφορμή για συζήτηση."
+
+#: admin/tabs/surveys.php:111
+msgid "Surveys are a premium feature."
+msgstr "Οι Έρευνες είναι πρόσθετη λειτουργία."
+
+#: admin/tabs/surveys.php:131
+msgid "Already have an activation code for Surveys? Enter it here:"
+msgstr "Έχετε ήδη κωδικό ενεργοποιήσεως για τις Έρευνες; Εισαγάγετέ τον εδώ:"
+
+#: admin/tabs/triggers.php:83
+msgid "Automatically start conversations with your visitors."
+msgstr "Αρχίστε αυτομάτως συζητήσεις με τους επισκέπτες σας."
+
+#: admin/tabs/triggers.php:86
+msgid "Triggers automatically start a conversation with your visitors based on the rules you provide."
+msgstr "Οι Υποκινητές αρχίζουν αυτόματα συζήτηση με τους επισκέπτες σας, με όρους που προρυθμίζετε."
+
+#: admin/tabs/triggers.php:89
+msgid "Once the user responds, you take over the conversation (these aren't automated robots)."
+msgstr "Μόλις αντιδράση ο επισκέπτης, αναλαμβάνετε παρακάτω την συζήτηση. (Χωρίς την χρήση ρομπότ)."
+
+#: admin/tabs/triggers.php:92
+msgid "They are a great way to start a conversation, much like you would if you walked into a physical store."
+msgstr "Είναι θαυμάσιος τρόπος ν᾽αρχίσει μία συζήτηση, όπως θα γινόταν και σε κάποιο κατάστημα."
+
+#: admin/tabs/triggers.php:98
+msgid "Triggers are a premium feature."
+msgstr "Οι Υποκινητές είναι πρόσθετη λειτουργία."
+
+#: admin/tabs/triggers.php:118
+msgid "Already have an activation code for Triggers? Enter it here:"
+msgstr "Έχετε ήδη κωδικό ενεργοποιήσεως για τους Υποκινητές; Εισαγάγετέ τον εδώ:"
+
+#: admin/tabs/visitors.php:28
+msgid "Start"
+msgstr "Αρχή"
+
+#: admin/tabs/visitors.php:31 admin/tabs/visitors.php:41
+msgid "Today"
+msgstr "Σήμερα"
+
+#: admin/tabs/visitors.php:32 admin/tabs/visitors.php:42
+msgid "Yesterday"
+msgstr "Εχθές"
+
+#: admin/tabs/visitors.php:33 admin/tabs/visitors.php:43
+msgid "1 Week Ago"
+msgstr "Πριν 1 εβδομάδα"
+
+#: admin/tabs/visitors.php:38
+msgid "Finish"
+msgstr "Τέλος"
+
+#: admin/tabs/visitors.php:54
+msgid "Choose a visitor on the left."
+msgstr "Επιλέξτε επισκέπτη στ᾽αριστερά."
+
+#: admin/tabs/visitors.php:69
+msgid "Delete This Conversation"
+msgstr "Διαγράψτε αυτήν την Συζήτηση"
+
+#: admin/tabs/visitors.php:70
+msgid "Delete all convos on the <a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Settings</a> page."
+msgstr "Διαγράψτε όλες τις συζητήσεις στην σελίδα <a href=\"admin.php?page=livelychatsupport&tab=settings#delete_convos_anchor\">Ρυθμίσεις</a>."
+
+#: admin/tabs/visitors.php:77 admin/tabs/visitors.php:87
+msgid "IP:"
+msgstr "IP:"
+
+#: admin/tabs/visitors.php:78 admin/tabs/visitors.php:88
+msgid "Last seen:"
+msgstr "Τελευταία επίσκεψη:"
+
+#: admin/tabs/visitors.php:85
+msgid "Location:"
+msgstr "Τόπος:"
+
+#: admin/tabs/visitors.php:86
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/tabs/visitors.php:95
+msgid "Now visiting:"
+msgstr "Επισκέπτονται τώρα:"
+
+#: admin/tabs/visitors.php:113 chatbox/includes/structure.php:132
+msgid "Type here and press <Enter>"
+msgstr "Γράψτε εδώ και πατήστε <Enter>"
+
+#: admin/tabs/visitors.php:118
+msgid "You can't talk to this person because they haven't registered yet."
+msgstr "Δεν μπορείτε να συζητήσετε με αυτόν τον επισκέπτη γιατι δεν ενεγράφη ακόμη."
+
+#: admin/tabs/visitors.php:121
+msgid "We'll be unlocking this feature in a future version."
+msgstr "Η λειτουργία θα ενεργοποιηθή σε νέα έκδοση."
+
+#: chatbox/includes/structure.php:52
+msgid "Next"
+msgstr "Επόμενο"
+
+#: chatbox/includes/structure.php:53
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: chatbox/includes/structure.php:54
+msgid "Prev Step"
+msgstr "Προηγ.Βήμα"
+
+#: chatbox/includes/structure.php:76
+msgid "What is your name?"
+msgstr "Το όνομά σας;"
+
+#: chatbox/includes/structure.php:81
+msgid "What is your email?"
+msgstr "Το email σας;"
+
+#: chatbox/includes/structure.php:86
+msgid "What is your question?"
+msgstr "Η ερώτησή σας;"
+
+#: chatbox/includes/structure.php:91
+msgid "Please provide a valid name, email, and question."
+msgstr "Παρακαλώ, δώστε ισχύον όνομα, email και ερώτημα."
+
+#: chatbox/includes/structure.php:96
+msgid "Loading..."
+msgstr "Φορτώνει..."
+
+#: chatbox/includes/structure.php:101 chatbox/includes/structure.php:127
+msgid "Powered by LivelyChat"
+msgstr "Στηρίζεται στο LivelyChat"
+
+#: chatbox/includes/structure.php:128
+msgid "Delete History"
+msgstr "Διαγραφή Ιστορικού"
+
+#: shared/includes/functions.php:17
+msgid "Thanks for contacting us. We'll get back to you as soon as we can."
+msgstr "Ευχαριστούμε που μάς καλέσατε. Θα επικοινωνήσουμε σύντομα μαζί σας."
+
+#: shared/includes/functions.php:18
+msgid "Chat With Us Now!"
+msgstr "Μιλήστε Τώρα Μαζί Μας!"
+
+#: shared/includes/functions.php:19
+msgid "Need help? Email Us Here!"
+msgstr "Για βοήθεια: Στείλτε Μας Email Εδώ!"
+
+#. Plugin Name of the plugin/theme
+#: 
+msgid "Lively Chat Support"
+msgstr "Υποστήριξη Lively Chat"
+
+#. Description of the plugin/theme
+#: 
+msgid "The best FREE live chat for your WP website (supports images) - forget the hosted chat services."
+msgstr "Άριστο ΔΩΡΕΑΝ σύστημα απἐυθείας ζωντανής συνδιαλέξεως (+εικόνες) για ιστοχώρους WordPress - τέλος οι συνδιαλέξεις μέσω τρίτων."
+
+#. Author of the plugin/theme
+#: 
+msgid "Dallas Read"
+msgstr "Dallas Read"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "http://www.DallasRead.com"
+msgstr "http://www.DallasRead.com"
+
+#. Tags of the plugin/theme
+#: 
+msgid "live chat, live support, online chat, customer service"
+msgstr "ζωντανή συνομιλία, ζωντανή υποστήριξη, τσατ, εξυπηρέτηση πελατών"
+
+#: admin/tabs/email_required.php:19
+msgid "Save My LivelyChatSupport"
+msgstr "Φυλάξτε το LivelyChatSupport Μου"
+
+#: admin/tabs/schedule.php:12
+msgid "Schedule & Office Hours"
+msgstr "Ατζέντα & Ώρες Λειτουργίας"
+
+#: admin/tabs/settings.php:161
+msgid "Chatbox Visibility"
+msgstr "Ορατότης Πίνακος Συνδιαλέξεων"
+
+#: admin/tabs/settings.php:164
+msgid "Which pages should LivelyChat be shown on?"
+msgstr "Σε ποιές σελίδες να φαίνεται το LivelyChat;"
+
+#: admin/tabs/sms.php:109
+msgid "Activate SMS"
+msgstr "Ενεργοποίηση SMS"
+
+#: admin/tabs/sms.php:8
+msgid "For the SMS addon, there's some set up (I wish it could be easier...)."
+msgstr "Για τα SMS υπάρχουν κάποιες ρυθμίσεις (μακάρι να μήν χρειαζόταν...)"
+
+#: admin/tabs/sms.php:11
+msgid "Visit the Users > Your Profile page to add your mobile phone number (where you want to receive the SMS's)."
+msgstr "Επισκεφθήτε: Χρήστες > Σελίδα Προφίλ Σας, για να προσθέσετε τον αρ. τηλεφώνου σας (όπου λαμβάνετε τα SMS)."
+
+#: admin/tabs/sms.php:12
+msgid "Sign up at <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+msgstr "Εγγραφείτε στο <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+
+#: admin/tabs/sms.php:13
+msgid "From the dashboard, copy your <b>ACCOUNT SID</b> and <b>AUTH TOKEN</b> into the boxes below."
+msgstr "Απο τον πίνακα ελέγχου, αντιγράψτε τα <b>ACCOUNT SID</b> και <b>AUTH TOKEN</b> στα παρακάτω πλαίσια."
+
+#: admin/tabs/sms.php:15
+msgid "Buy a number"
+msgstr "Αγοράστε έναν αριθμό"
+
+#: admin/tabs/sms.php:15
+msgid "You'll probably want a local number to avoid any long distance/international SMS charges."
+msgstr "Διαλέξτε ίσως έναν τοπικό αριθμό, για να αποφύγετε ψηλές τιμές διεθνών κλήσεων."
+
+#: admin/tabs/sms.php:16
+msgid "DON'T GET A TOLL FREE NUMBER - IT WILL NOT WORK."
+msgstr "ΜΗΝ ΛΑΒΕΤΕ ΔΩΡΕΑΝ ΑΡΙΘΜΟ - ΔΕΝ ΘΑ ΛΕΙΤΟΥΡΓΗΣΕΙ"
+
+#: admin/tabs/sms.php:16
+msgid "Place the phone number in the appropriate box below."
+msgstr "Συμπληρώστε τον αριθμό τηλεφώνου στο κατάλληλο πλαίσιο παρακάτω."
+
+#: admin/tabs/sms.php:19
+msgid "Click <b>Save My Credentials</b> on this page. You should receive an SMS confirming that everything's ready to go."
+msgstr "Πατήστε <b>Save My Credentials</b> (Φύλαξη Διαπιστευτηρίων Μου) σ᾽αυτήν την σελίδα. Θα λάβετε ένα SMS ως βεβαίωση πως όλα είναι έτοιμα."
+
+#: admin/tabs/sms.php:20
+msgid "Go to the <a href=\"%s\">Settings</a> page, visit the <b>LivelyChatSupport Hours</b> section (at the bottom) and switch it to <b>Always Online via SMS</b>!"
+msgstr "Πηγαίνετε στην σελίδα «<a href=\"%s\">Ρυθμίσεις</a>», επισκεφθήτε το τμήμα <b>Ώρες LivelyChatSupport</b> (στο κάτω μέρος) και επιλέξτε <b>Πάντα σε Σύνδεση με SMS</b>!"
+
+#: admin/tabs/sms.php:25
+msgid "What is your Twilio SID?"
+msgstr "Ποιός είναι ο κωδικός σας Twilio SID;"
+
+#: admin/tabs/sms.php:30
+msgid "What is your Twilio Auth Token?"
+msgstr "Ποιό είναι το τεκμήριο Twilio Auth Token σας;"
+
+#: admin/tabs/sms.php:35
+msgid "What is your Twilio Phone Number? (only numbers... no spaces, brackets, or plus sign)"
+msgstr "Ποιός είναι ο Αριθμός Τηλεφώνου Twilio σας; (μόνον ψηφία... όχι κενά, παρενθέσεις ή το σύμβολο «σύν»)"
+
+#: admin/tabs/surveys.php:133
+msgid "Activate Surveys"
+msgstr "Ενεργοποιήστε τις Έρευνες"
+
+#: admin/tabs/triggers.php:120
+msgid "Activate Triggers"
+msgstr "Ενεργοποιήστε τους Υποκινητές"
+
+#: admin/tabs/visitors.php:97
+msgid "see all"
+msgstr "δείτε τα όλα"
+
+#: chatbox/includes/functions.php:476
+msgid "Website Form"
+msgstr "Φόρμα Ιστοχώρου"
+
+#: chatbox/includes/structure.php:97
+msgid "Send Email!"
+msgstr "Στείλτε Email!"
+
+#: chatbox/includes/structure.php:97
+msgid "Start Chatting Now!"
+msgstr "Αρχίστε Τώρα την Συνδιάλεξη!"
+
+#: chatbox/includes/structure.php:112
+msgid "You're chatting with"
+msgstr "Επικοινωνείτε με τον/την"
+
+#: admin/includes/header.php:6
+msgid "Use surveys to engage visitors!"
+msgstr "Χρησιμοποιήστε Έρευνες για να δεσμεύσετε τους επισκέπτες σας!"
+
+#: admin/includes/header.php:10
+msgid "Triggers engage visitors!"
+msgstr "Οι Υποκινητές παρακινούν τους επισκέπτες!"
+
+#: admin/includes/header.php:14 admin/tabs/agents.php:92
+msgid "Need Multiple Agents?"
+msgstr "Χρειάζεστε Πολλαπλούς Πράκτορες;"
+
+#: admin/includes/header.php:18
+msgid "Chat with visitors from your phone!"
+msgstr "Συνδιαλεχθείτε με τους επισκέπτες σας απο το τηλέφωνό σας!"
+
+#: admin/includes/header.php:22
+msgid "Lively Chat Support? Donate!"
+msgstr "Υποστήριξη Lively Chat Support? Δωρίστε!"
+
+#: admin/includes/header.php:26
+msgid "Have you seen LivelyChatSupport.com?"
+msgstr "Είδατε το  LivelyChatSupport.com ;"
+
+#: admin/tabs/agents.php:13
+msgid "<strong>Phone Number</strong> - should include country code (eg. 19998887777). "
+msgstr "<strong>Αριθμός Τηλεφώνου</strong> - πρέπει να περιλαμβάνει τον κωδικό χώρας (π.χ. 30210123456).␣"
+
+#: admin/tabs/agents.php:16
+msgid "<strong>Email Address</strong> - Can be changed in the <a href=\"%s\">WP Users</a> section."
+msgstr "<strong>Διεύθυνσις Email</strong> - Μπορεί να αλλαχθή στο τμήμα <a href=\"%s\">Χρήστες (τού Wordpress)</a>."
+
+#: admin/tabs/agents.php:17
+msgid "<strong>Display Name</strong> - Shows in the \"You're Chatting With\" section of the chat box."
+msgstr "<strong>Επωνυμία</strong> - Το όνομα που φαίνεται στο τμήμα \"Επικοινωνείτε με τον/την\" τού πίνακος συνδιαλέξεων."
+
+#. This might be better if it read: "When checked, the user/agent can chat..." etc. Now it's not clear what happens if a user is logged-in but not assigned as agent. Also it might be affected if one uses the Multiple Agents addon.
+#. Just an idea.
+#: admin/tabs/agents.php:19
+msgid "<strong>Active</strong> - When checked, the user can chat with visitors. At least 1 agent must be active for LivelyChatSupport to work."
+msgstr "<strong>Ενεργοί</strong> - Όταν είναι επιλεγμένο, ο χρήστης μπορεί να συνδιαλεχθή με τους επισκέπτες. Τουλάχιστον 1 πράκτωρ πρέπει να είναι ενεργός για να λειτουργήσει το LivelyChatSupport."
+
+#: admin/tabs/agents.php:20
+msgid "To add more agents, purchase the addon below."
+msgstr "Για περισσοτέρους πράκτορες, αγοράζετε παρακάτω την πρόσθετη λειτουργία."
+
+#: admin/tabs/agents.php:22
+msgid "<strong>Default</strong> - The default Lively Chat Support agent."
+msgstr "<strong>Προεπιλογή</strong> - Ο προεπιλεγμένος πράκτωρ υποστήριξης στο Lively Chat Support."
+
+#: admin/tabs/agents.php:31
+msgid "Active"
+msgstr "Ενεργοί"
+
+#: admin/tabs/agents.php:32
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: admin/tabs/agents.php:33
+msgid "Email Address"
+msgstr "Διεύθυνση Email"
+
+#: admin/tabs/agents.php:34
+msgid "Display Name"
+msgstr "Επωνυμία"
+
+#: admin/tabs/agents.php:36
+msgid "Phone Number"
+msgstr "Αριθμός Τηλεφώνου"
+
+#: admin/tabs/agents.php:94
+msgid "Multiple Agents chat is a premium feature."
+msgstr "Οι Πολλαπλοί Πράκτορες είναι πρόσθετη λειτουργία."
+
+#: admin/tabs/agents.php:95
+msgid "It is managed through the Wordpress Users pages."
+msgstr "Ρυθμίζεται απο τις σελίδες Χρηστών τού Wordpress"
+
+#: admin/tabs/agents.php:96 admin/tabs/sms.php:90 admin/tabs/surveys.php:114
+#: admin/tabs/triggers.php:101
+msgid "To purchase the addon, pay here and you'll receive an email with an activation code (which you'll enter in the box below):"
+msgstr "Για ν᾽αγοράσετε την πρόσθετη λειτουργία, πληρώνετε και θα λάβετε ένα μήνυμα email με τον κωδικό ενεργοποιήσεως (που θα εισαγάγετε στο παρακάτω πλαίσιο) :"
+
+#: admin/tabs/agents.php:109
+msgid "Already have an activation code? Enter it here:"
+msgstr "Έχετε ήδη κωδικό ενεργοποιήσεως; Συμπληρώστε τον εδώ:"
+
+#: admin/tabs/agents.php:111
+msgid "Activate"
+msgstr "Ενεργοποιήστε"
+
+#: admin/tabs/help.php:1
+msgid "Setup"
+msgstr "Ρυθμίστε"
+
+#: admin/tabs/help.php:3
+msgid "Set up your agents on the <a href=\"%s\">Agents</a> page."
+msgstr "Ρυθμίστε τους πράκτορες στην σελίδα <a href=\"%s\">Πράκτορες</a>."
+
+#: admin/tabs/help.php:4
+msgid "Set your office hours on the <a href=\"%s\">Schedule</a> page."
+msgstr "Ρυθμίστε τις ώρες λειτουργίας στην σελίδα <a href=\"%s\">Ατζέντα</a>."
+
+#: admin/tabs/help.php:5
+msgid "Visit the <a href=\"%s\">Settings</a> page to change the appearance of your chat box."
+msgstr "Επισκεφθείτε την σελίδα <a href=\"%s\">Ρυθμίσεις</a> για ν᾽αλλάξετε την εμφάνιση τού πίνακος συνδιαλέξεών σας."
+
+#: admin/tabs/help.php:6
+msgid "Chat with your visitors."
+msgstr "Συζητήστε με τους επισκέπτες σας."
+
+#: admin/tabs/help.php:7
+msgid "Purchase an addon (SMS, Surveys, Triggers, or Multiple Agents)!"
+msgstr "Αγοράστε πρόσθετες λειτουργίες (SMS, Έρευνες, Υποκινητές ή Πράκτορες) !"
+
+#: admin/tabs/help.php:10
+msgid "Need extra help?"
+msgstr "Χρειάζεσθε επι πλέον βοήθεια;"
+
+#: admin/tabs/help.php:12
+msgid "Is your question already on the <a href=\"%s\">Wordpress Plugin Forum</a>?"
+msgstr "Βρίσκεται το ερώτημά σας ήδη στο <a href=\"%s\">Wordpress Plugin Forum</a>?"
+
+#: admin/tabs/help.php:13
+msgid "Visit <a href=\"%s\">LivelyChatSupport.com</a>"
+msgstr "Επισκεφθείτε τον <a href=\"%s\">LivelyChatSupport.com</a>"
+
+#: admin/tabs/help.php:14
+msgid "Email dallas at excitecreative.ca."
+msgstr "Email: dallas at excitecreative.ca"
+
+#: admin/tabs/schedule.php:27
+msgid "Is it <b>%s</b>? If not, change your timezone on the <a href=\"%s\">General Settings</a> page."
+msgstr "Είναι <b>%s</b>; Αν όχι, αλλάξτε την ζώνη ώρας σας στην σελίδα <a href=\"%s\">Γενικές Ρυθμίσεις</a>."
+
+#: admin/tabs/schedule.php:28
+msgid "Not seeing your agents? Make sure the \"Active\" column is ticked on the <a href=\"%s\">Agents</a> page."
+msgstr "Δεν βλέπετε τους πράκτορές σας; Βεβαιωθείτε πως επιλέξατε την στήλη «Ενεργοί», στην σελίδα <a href=\"%s\">Πράκτορες</a>."
+
+#: admin/tabs/sms.php:18
+msgid "When prompted by Twilio, fill in the box for <b>Messaging</b> with \"%s\". <b>/xmlrpc.php?from_twilio=true</b> must be on the end of the url for the SMS addon to work. Save your Twilio changes."
+msgstr "Μόλις σάς ζητηθεί απο το Twilio, εισαγάγετε \"%s\" στο πλαίσιο <b>Messaging</b>. Προσθέστε στο τέλος τής (url) διευθύνσεως <b>/xmlrpc.php?from_twilio=true</b> για να ισχύσει η λειτουργία SMS. Φυλάξτε τις αλλαγές σας στο Twilio."
+
+#: admin/tabs/sms.php:62
+msgid "How do I respond to SMS messages?"
+msgstr "Πώς απαντώ σε μηνύματα SMS;"
+
+#: admin/tabs/sms.php:63
+msgid "Each message you receive begins with a small token and a colon (eg. 4k2:)."
+msgstr "Κάθε μήνυμα που λαμβάνετε αρχίζει με ένα μικρό τεκμήριο και άνω-κάτω στιγμή (π.χ. 4k2:)."
+
+#: admin/tabs/sms.php:64
+msgid "To respond to a specific conversation, type \"4k2: YOUR MESSAGE HERE\"."
+msgstr "Απαντάτε π.χ. στην συγκεκριμένη συζήτηση, ως «4k2: ΕΔΩ ΤΟ ΜΗΝΥΜΑ ΣΑΣ»."
+
+#: admin/tabs/sms.php:65
+msgid "If you don't include this token in your response, we'll just send it back to the customer that last sent you a message."
+msgstr "Αν δεν συμπεριλάβετε το τεκμήριο στην απάντηση, την στέλνομε απλά στον τελευταίο που σάς έστειλε μήνυμα."
+
+#: admin/tabs/sms.php:75
+msgid "Your PHP installation doesn't support CURL, <b>which is required for the SMS addon</b>. Have a look at <a href=\"%s\">this guide</a> to install it."
+msgstr "Η έκδοση PHP που έχετε δεν υποστηρίζει την CURL, <b>που απαιτείται για την λειτουργία SMS</b>. Κοιτάξτε <a href=\"%s\">τις οδηγίες</a> για να την εγκαταστήσετε."
+
+#: admin/includes/header.php:43
+msgid "Schedule"
+msgstr "Ατζέντα"
+
+#: admin/tabs/visitors.php:76 admin/tabs/visitors.php:84
+msgid "Agent:"
+msgstr "Πράκτωρ:"
+
